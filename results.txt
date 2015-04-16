@@ -1,0 +1,662 @@
+{
+  "name": "Apple",
+  "site": "www.apple.com",
+  "position": 4,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "California",
+    "businessCategory": "Private Organization",
+    "serialNumber": "C0806592",
+    "C": "US",
+    "postalCode": "95014",
+    "ST": "California",
+    "L": "Cupertino",
+    "street": "1 Infinite Loop",
+    "O": "Apple Inc.",
+    "OU": "Internet Services for Akamai",
+    "CN": "www.apple.com"
+  }
+}
+{
+  "name": "Microsoft",
+  "site": "www.microsoft.com",
+  "position": 33,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Washington",
+    "businessCategory": "Private Organization",
+    "serialNumber": "600413485",
+    "C": "US",
+    "postalCode": "98052",
+    "ST": "Washington",
+    "L": "Redmond",
+    "street": "1 Microsoft Way",
+    "O": "Microsoft Corporation",
+    "OU": "MSCOM",
+    "CN": "www.microsoft.com"
+  }
+}
+{
+  "name": "Bank of America",
+  "site": "www.bankofamerica.com",
+  "position": 20,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2927442",
+    "C": "US",
+    "postalCode": "60603",
+    "ST": "Illinois",
+    "L": "Chicago",
+    "street": "135 S La Salle St",
+    "O": "Bank of America Corporation",
+    "OU": "Network Infrastructure",
+    "CN": "www.bankofamerica.com"
+  }
+}
+{
+  "name": "Freddie Mac",
+  "site": "www.freddiemac.com",
+  "position": 31,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "businessCategory": "Government Entity",
+    "serialNumber": "12USC Sec. 1452",
+    "C": "US",
+    "postalCode": "20190",
+    "ST": "Virginia",
+    "L": "Reston",
+    "street": "1771 Business Center Drive",
+    "O": "Federal Home Loan Mortgage Corporation",
+    "CN": "www.freddiemac.com"
+  }
+}
+{
+  "name": "State Farm Insurance Cos.",
+  "site": "www.statefarm.com",
+  "position": 40,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Illinois",
+    "L": "Bloomington",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+    "O": "State Farm Mutual Automobile Insurance Company",
+    "businessCategory": "Private Organization",
+    "serialNumber": "37-0533100",
+    "CN": "www.statefarm.com"
+  }
+}
+{
+  "name": "Aetna Inc.",
+  "site": "www.aetna.com",
+  "position": 56,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Connecticut",
+    "businessCategory": "Private Organization",
+    "serialNumber": "0081406",
+    "C": "US",
+    "postalCode": "06156",
+    "ST": "Connecticut",
+    "L": "Hartford",
+    "street": "151 Farmington Ave",
+    "O": "Aetna Life Insurance Company",
+    "CN": "www.aetna.com"
+  }
+}
+{
+  "name": "The Travelers Companies, Inc.",
+  "site": "www.travelers.com",
+  "position": 113,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Minnesota",
+    "businessCategory": "Private Organization",
+    "serialNumber": "12-AA",
+    "C": "US",
+    "postalCode": "06183",
+    "ST": "Connecticut",
+    "L": "Hartford",
+    "street": "One Tower Square",
+    "O": "The Travelers Companies Inc",
+    "CN": "www.travelers.com"
+  }
+}
+{
+  "name": "Macy's, Inc.",
+  "site": "www.macysinc.com",
+  "position": 106,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2437460",
+    "C": "US",
+    "postalCode": "30097",
+    "ST": "Georgia",
+    "L": "Johns Creek",
+    "street": "5985 State Bridge Road",
+    "O": "Macy's Systems and Technology, Inc.",
+    "OU": "MST",
+    "CN": "www.macysinc.com"
+  }
+}
+{
+  "name": "Northwestern Mutual Life Insurance Company,Inc.",
+  "site": "www.northwesternmutual.com",
+  "position": 109,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Wisconsin",
+    "L": "Milwaukee",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Wisconsin",
+    "O": "The Northwestern Mutual Life Insurance Company",
+    "businessCategory": "Private Organization",
+    "serialNumber": "01 01 1887",
+    "CN": "www.northwesternmutual.com"
+  }
+}
+{
+  "name": "The Allstate Corporation",
+  "site": "www.allstate.com",
+  "position": 91,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+    "businessCategory": "Private Organization",
+    "serialNumber": "19312103",
+    "C": "US",
+    "ST": "Illinois",
+    "L": "Northbrook",
+    "O": "Allstate Insurance Company",
+    "CN": "www.allstate.com"
+  }
+}
+{
+  "name": "Capital One Financial Corporation",
+  "site": "www.capitalone.com",
+  "position": 123,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2419959",
+    "C": "US",
+    "postalCode": "22102",
+    "ST": "Virginia",
+    "L": "McLean",
+    "street": "1680 Capital One Dr",
+    "O": "Capital One Financial Corporation",
+    "OU": "IPS-ECM",
+    "CN": "www.capitalone.com"
+  }
+}
+{
+  "name": "Bed Bath & Beyond Inc.",
+  "site": "www.bedbathandbeyond.com",
+  "position": 257,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "New York",
+    "businessCategory": "Private Organization",
+    "serialNumber": "315602",
+    "C": "US",
+    "postalCode": "07083",
+    "ST": "New Jersey",
+    "L": "Union",
+    "street": "650 Liberty Avenue",
+    "O": "Bed Bath & Beyond Inc.",
+    "OU": "TECHNOLOGY & OPERATIONS",
+    "CN": "www.bedbathandbeyond.com"
+  }
+}
+{
+  "name": "Ameriprise Financial, Inc.",
+  "site": "www.ameriprise.com",
+  "position": 248,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2018118",
+    "C": "US",
+    "postalCode": "55474",
+    "ST": "Minnesota",
+    "L": "Minneapolis",
+    "street": "1099 Ameriprise Financial Ctr",
+    "O": "Ameriprise Financial Inc",
+    "OU": "Ameriprise Financial",
+    "CN": "www.ameriprise.com"
+  }
+}
+{
+  "name": "BB&T Corporation",
+  "site": "www.bbt.com",
+  "position": 268,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "North Carolina",
+    "businessCategory": "Private Organization",
+    "serialNumber": "0023695",
+    "C": "US",
+    "postalCode": "27101",
+    "ST": "North Carolina",
+    "L": "Winston Salem",
+    "street": "200 W 2ND St",
+    "O": "Branch Banking and Trust Company",
+    "OU": "Online Channel - CDN",
+    "CN": "www.bbt.com"
+  }
+}
+{
+  "name": "Ally Financial Inc.",
+  "site": "www.ally.com",
+  "position": 272,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Michigan",
+    "L": "Detroit",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "O": "Ally Financial Inc.",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2720811",
+    "CN": "www.ally.com"
+  }
+}
+{
+  "name": "CDW Corporation",
+  "site": "www.cdw.com",
+  "position": 264,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+    "businessCategory": "Private Organization",
+    "serialNumber": "02909227",
+    "C": "US",
+    "postalCode": "60061",
+    "ST": "Illinois",
+    "L": "Vernon Hills",
+    "street": "200 N. Milwaukee Ave.",
+    "O": "CDW LLC",
+    "OU": "IT",
+    "CN": "www.cdw.com"
+  }
+}
+{
+  "name": "Public Service Enterprise Group Incorporated",
+  "site": "www.pseg.com",
+  "position": 283,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "New Jersey",
+    "businessCategory": "Private Organization",
+    "serialNumber": "0100267099",
+    "C": "US",
+    "postalCode": "07102-4109",
+    "ST": "New Jersey",
+    "L": "Newark",
+    "street": "80 Park Plz",
+    "O": "Public Service Enterprise Group Incorporated",
+    "OU": "14v",
+    "CN": "www.pseg.com"
+  }
+}
+{
+  "name": "Genworth Financial, Inc.",
+  "site": "www.genworth.com",
+  "position": 290,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "5242840",
+    "C": "US",
+    "ST": "Virginia",
+    "L": "Richmond",
+    "O": "Genworth Financial Inc.",
+    "OU": "HQ",
+    "CN": "www.genworth.com"
+  }
+}
+{
+  "name": "SunTrust Banks, Inc.",
+  "site": "www.suntrust.com",
+  "position": 313,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "businessCategory": "Private Organization",
+    "serialNumber": "675332",
+    "C": "US",
+    "ST": "Georgia",
+    "L": "Atlanta",
+    "O": "SunTrust Bank",
+    "CN": "www.suntrust.com"
+  }
+}
+{
+  "name": "American Family Ins. Group",
+  "site": "www.amfam.com",
+  "position": 372,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Wisconsin",
+    "businessCategory": "Private Organization",
+    "serialNumber": "DOC: 19270101",
+    "C": "US",
+    "postalCode": "53783-0001",
+    "ST": "Wisconsin",
+    "L": "Madison",
+    "street": "6000 American Pkwy",
+    "O": "American Family Mutual Insurance Company",
+    "OU": "NHQ server2",
+    "CN": "www.amfam.com"
+  }
+}
+{
+  "name": "Cablevision Systems Corporation",
+  "site": "www.cablevision.com",
+  "position": 396,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2824510",
+    "C": "US",
+    "postalCode": "11714-3533",
+    "ST": "New York",
+    "L": "Bethpage",
+    "street": "1111 Stewart Ave",
+    "O": "Cablevision Systems Corporation",
+    "OU": "Optimum Online",
+    "CN": "www.cablevision.com"
+  }
+}
+{
+  "name": "SLM Corporation",
+  "site": "www.salliemae.com",
+  "position": 416,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2651098",
+    "C": "US",
+    "postalCode": "46038-9203",
+    "ST": "Indiana",
+    "L": "Fishers",
+    "street": "11100 USA Pkwy",
+    "O": "Sallie Mae, Inc.",
+    "OU": "Enterprise Technology",
+    "CN": "www.salliemae.com"
+  }
+}
+{
+  "name": "Regions Financial Corporation",
+  "site": "www.regions.com",
+  "position": 446,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "3764617",
+    "C": "US",
+    "postalCode": "35203",
+    "ST": "Alabama",
+    "L": "Birmingham",
+    "street": "1900 Fifth Avenue North",
+    "O": "Regions Financial Corporation",
+    "OU": "ECommerce",
+    "CN": "www.regions.com"
+  }
+}
+{
+  "name": "The Jones Financial Companies,L.L.L.P.",
+  "site": "www.edwardjones.com",
+  "position": 443,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Missouri",
+    "L": "Des Peres",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Missouri",
+    "O": "Edward D. Jones & Co., L.P.",
+    "businessCategory": "Private Organization",
+    "OU": "IS",
+    "serialNumber": "LP0000700 + CN=www.edwardjones.com"
+  }
+}
+{
+  "name": "United Stationers Inc.",
+  "site": "www.unitedstationers.com",
+  "position": 487,
+  "certificateSubject": {
+    "businessCategory": "Private Organization",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+    "serialNumber": "16487481",
+    "street": [
+      "Suite 100",
+      "1 Parkway North"
+    ],
+    "postalCode": "60015",
+    "C": "US",
+    "ST": "Illinois",
+    "L": "Deerfield",
+    "O": "United Stationers Supply Co.",
+    "CN": "www.unitedstationers.com"
+  }
+}
+{
+  "name": "Tractor Supply Company",
+  "site": "www.tractorsupply.com",
+  "position": 479,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "0949106",
+    "C": "US",
+    "ST": "Tennessee",
+    "L": "Brentwood",
+    "O": "Tractor Supply Company",
+    "CN": "www.tractorsupply.com"
+  }
+}
+{
+  "name": "TIAA-CREF",
+  "site": "www.tiaa-cref.org",
+  "position": 94,
+  "certificateSubject": {
+    "serialNumber": "69345",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "NY",
+    "businessCategory": "Private Organization",
+    "C": "US",
+    "postalCode": "10017",
+    "ST": "NEW YORK",
+    "L": "New York",
+    "street": "730 3rd Ave",
+    "O": "Teachers Insurance and Annuity Association of America",
+    "OU": "Comodo EV SAN SSL",
+    "CN": "ais2.tiaa-cref.org"
+  }
+}
+{
+  "name": "Symantec Corporation",
+  "site": "www.symantec.com",
+  "position": 377,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "businessCategory": "Private Organization",
+    "serialNumber": "2158113",
+    "C": "US",
+    "postalCode": "94043",
+    "ST": "California",
+    "L": "Mountain View",
+    "street": "350 Ellis Street",
+    "O": "Symantec Corporation",
+    "OU": "Corp Mktg & Comms - Online Exp",
+    "CN": "www.symantec.com"
+  }
+}
+{
+  "name": "United Services Automobile Association",
+  "site": "www.usaa.com",
+  "position": 140,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Texas",
+    "businessCategory": "Private Organization",
+    "serialNumber": "86800",
+    "C": "US",
+    "postalCode": "78288",
+    "ST": "Texas",
+    "L": "San Antonio",
+    "street": "9800 Fredericksburg Rd",
+    "O": "United Services Automobile Association",
+    "OU": "USAA Operations Solutions WSAN1",
+    "CN": "www.usaa.com"
+  }
+}
+{
+  "name": "U.S. Bancorp",
+  "site": "www.usbank.com",
+  "position": 139,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Minnesota",
+    "L": "Minneapolis",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "O": "U.S. Bank National Association",
+    "businessCategory": "Private Organization",
+    "OU": "ISS",
+    "serialNumber": "6548",
+    "CN": "www.usbank.com"
+  }
+}
+{
+  "name": "Tech Data Corporation",
+  "site": "www.techdata.com",
+  "position": 110,
+  "certificateSubject": {
+    "businessCategory": "Private Organization",
+    "serialNumber": "591578329",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Florida",
+    "C": "US",
+    "ST": "Florida",
+    "L": "Clearwater",
+    "street": "5350 Tech Data Drive",
+    "O": "Tech Data Corporation",
+    "CN": "www.techdata.com"
+  }
+}
+{
+  "name": "American Airlines Group Inc.",
+  "site": "www.aa.com",
+  "position": 111,
+  "certificateSubject": {
+    "C": "US",
+    "ST": "Texas",
+    "L": "Fort Worth",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+    "O": "American Airlines, Inc.",
+    "businessCategory": "Private Organization",
+    "OU": "Site Ops Optimization",
+    "serialNumber": "0332421",
+    "CN": "www.aa.com"
+  }
+}
+{
+  "name": "FirstEnergy Corp.",
+  "site": "www.firstenergycorp.com",
+  "position": 194,
+  "certificateSubject": {
+    "businessCategory": "Private Organization",
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Ohio",
+    "serialNumber": "953140",
+    "C": "US",
+    "ST": "Ohio",
+    "L": "Akron",
+    "O": "FirstEnergy Corp.",
+    "CN": "www.firstenergycorp.com"
+  }
+}
+{
+  "name": "The PNC Financial Services Group, Inc.",
+  "site": "www.pnc.com",
+  "position": 171,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Pennsylvania",
+    "businessCategory": "Private Organization",
+    "serialNumber": "754401",
+    "C": "US",
+    "postalCode": "15222",
+    "ST": "Pennsylvania",
+    "L": "Pittsburgh",
+    "street": "249 Fifth Ave.",
+    "O": "The PNC Financial Services Group, Inc.",
+    "OU": "Secure Edge Server",
+    "CN": "www.pnc.com"
+  }
+}
+{
+  "name": "Alaska Air Group, Inc.",
+  "site": "www.alaskaair.com",
+  "position": 481,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Alaska",
+    "businessCategory": "Private Organization",
+    "serialNumber": "1127D",
+    "C": "US",
+    "ST": "Washington",
+    "L": "Seattle",
+    "O": "Alaska Airlines, Inc.",
+    "OU": "ITS",
+    "CN": "www.alaskaair.com"
+  }
+}
+{
+  "name": "Fifth Third Bancorp",
+  "site": "www.53.com",
+  "position": 360,
+  "certificateSubject": {
+    "jurisdictionOfIncorporationCountryName": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Ohio",
+    "businessCategory": "Private Organization",
+    "serialNumber": "877750",
+    "C": "US",
+    "postalCode": "45263-0001",
+    "ST": "Ohio",
+    "L": "Cincinnati",
+    "street": "38 Fountain Square Plz",
+    "O": "Fifth Third Bank",
+    "OU": "Information Technology",
+    "CN": "www.53.com"
+  }
+}
+{
+  "name": "Airgas, Inc.",
+  "site": "www.airgas.com",
+  "position": 497,
+  "certificateSubject": {
+    "CN": "www.airgas.com",
+    "O": "AIRGAS, INC.",
+    "L": "Radnor",
+    "ST": "Pennsylvania",
+    "C": "US",
+    "jurisdictionOfIncorporationStateOrProvinceName": "Pennsylvania",
+    "serialNumber": "2142700",
+    "businessCategory": "Business Entity",
+    "jurisdictionOfIncorporationCountryName": "USA"
+  }
+}

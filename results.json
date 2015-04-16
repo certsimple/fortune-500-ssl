@@ -1,0 +1,4835 @@
+[
+  {
+    "name": "CVS Caremark",
+    "site": "info.cvscaremark.com",
+    "position": 11,
+    "isSSL": false
+  },
+  {
+    "name": "Chevron",
+    "site": "www.chevron.com",
+    "position": 2,
+    "isSSL": false
+  },
+  {
+    "name": "Apple",
+    "site": "www.apple.com",
+    "position": 4,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "California",
+      "businessCategory": "Private Organization",
+      "serialNumber": "C0806592",
+      "C": "US",
+      "postalCode": "95014",
+      "ST": "California",
+      "L": "Cupertino",
+      "street": "1 Infinite Loop",
+      "O": "Apple Inc.",
+      "OU": "Internet Services for Akamai",
+      "CN": "www.apple.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Costco Wholesale",
+    "site": "www.costco.com",
+    "position": 18,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "WA",
+      "L": "Issaquah",
+      "O": "Costco Wholesale",
+      "OU": "Enterprise SSL",
+      "CN": "www.costco.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "McKesson",
+    "site": "www.mckesson.com",
+    "position": 14,
+    "isSSL": false
+  },
+  {
+    "name": "Phillips 66",
+    "site": "www.phillips66.com",
+    "position": 5,
+    "isSSL": false
+  },
+  {
+    "name": "General Electric",
+    "site": "www.ge.com",
+    "position": 8,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "06828",
+      "ST": "Conneticut",
+      "L": "Fairfield",
+      "street": "3135 Easton Turnpike",
+      "O": "General Electric Company",
+      "OU": [
+        "General Electric Company",
+        "Unified Communications"
+      ],
+      "CN": "www.ge.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Wal-Mart Stores",
+    "site": "www.corporate.walmart.com",
+    "position": 0,
+    "isSSL": false
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "site": "www.adm.com",
+    "position": 26,
+    "isSSL": false
+  },
+  {
+    "name": "Home Depot",
+    "site": "www.homedepot.com",
+    "position": 32,
+    "isSSL": false
+  },
+  {
+    "name": "Cardinal Health",
+    "site": "www.cardinal.com",
+    "position": 21,
+    "isSSL": false
+  },
+  {
+    "name": "Target",
+    "site": "www.target.com",
+    "position": 35,
+    "isSSL": false
+  },
+  {
+    "name": "Walgreen Co.",
+    "site": "www.walgreens.com",
+    "position": 36,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "IL",
+      "L": "Deerfield",
+      "O": "Walgreen Co.",
+      "OU": "New Business Development",
+      "CN": "*.walgreens.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Comcast",
+    "site": "www.comcastcorporation.com",
+    "position": 43,
+    "isSSL": false
+  },
+  {
+    "name": "Caterpillar",
+    "site": "www.caterpillar.com",
+    "position": 48,
+    "isSSL": false
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "site": "www.berkshirehathaway.com",
+    "position": 3,
+    "isSSL": false
+  },
+  {
+    "name": "ConocoPhillips",
+    "site": "www.conocophillips.com",
+    "position": 46,
+    "isSSL": false
+  },
+  {
+    "name": "Dow Chemical",
+    "site": "www.dow.com",
+    "position": 47,
+    "isSSL": false
+  },
+  {
+    "name": "Express Scripts Holding",
+    "site": "www.express-scripts.com",
+    "position": 19,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Missouri",
+      "L": "Maryland Heights",
+      "O": "Express Scripts Inc",
+      "OU": "Middleware",
+      "CN": "WWW.EXPRESS-SCRIPTS.COM"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Intel Corporation",
+    "site": "www.intel.com",
+    "position": 52,
+    "isSSL": false
+  },
+  {
+    "name": "PepsiCo",
+    "site": "www.pepsico.com",
+    "position": 42,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Plano",
+      "O": "Pepsico Inc",
+      "CN": "*.pepsico.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "AmerisourceBergen",
+    "site": "www.amerisourcebergen.com",
+    "position": 27,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "19087",
+      "ST": "PA",
+      "L": "Chesterbrook",
+      "street": "1300 Morris Drive",
+      "O": "AmerisourceBergen Corporation",
+      "OU": [
+        "Portal Services",
+        "Secure Link SSL Wildcard"
+      ],
+      "CN": "*.amerisourcebergen.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Coca-Cola Company",
+    "site": "www.coca-colacompany.com",
+    "position": 57,
+    "isSSL": false
+  },
+  {
+    "name": "Best Buy Co., Inc.",
+    "site": "www.bestbuy.com",
+    "position": 59,
+    "isSSL": false
+  },
+  {
+    "name": "United Technologies",
+    "site": "www.utc.com",
+    "position": 44,
+    "isSSL": false
+  },
+  {
+    "name": "Cisco Systems, Inc.",
+    "site": "www.cisco.com",
+    "position": 54,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "CALIFORNIA",
+      "L": "San Jose",
+      "O": "Cisco",
+      "OU": "CCIT-ECM",
+      "CN": "www.cisco.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Johnson & Johnson",
+    "site": "www.jnj.com",
+    "position": 38,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "New Brunswick",
+      "O": "Johnson & Johnson",
+      "CN": "www.jnj.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Johnson Controls, Inc.",
+    "site": "www.johnsoncontrols.com",
+    "position": 67,
+    "isSSL": false
+  },
+  {
+    "name": "Energy Transfer Equity, L.P.",
+    "site": "www.energytransfer.com",
+    "position": 53,
+    "isSSL": false
+  },
+  {
+    "name": "Marathon Petroleum",
+    "site": "www.marathonpetroleum.com",
+    "position": 24,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": [
+        "Domain Control Validated",
+        "nsProtect Secure Xpress"
+      ],
+      "CN": "www.marathonpetroleum.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Walt Disney Company",
+    "site": "www.disney.com",
+    "position": 60,
+    "isSSL": false
+  },
+  {
+    "name": "Freddie Mac",
+    "site": "www.freddiemac.com",
+    "position": 31,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "businessCategory": "Government Entity",
+      "serialNumber": "12USC Sec. 1452",
+      "C": "US",
+      "postalCode": "20190",
+      "ST": "Virginia",
+      "L": "Reston",
+      "street": "1771 Business Center Drive",
+      "O": "Federal Home Loan Mortgage Corporation",
+      "CN": "www.freddiemac.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Bank of America",
+    "site": "www.bankofamerica.com",
+    "position": 20,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2927442",
+      "C": "US",
+      "postalCode": "60603",
+      "ST": "Illinois",
+      "L": "Chicago",
+      "street": "135 S La Salle St",
+      "O": "Bank of America Corporation",
+      "OU": "Network Infrastructure",
+      "CN": "www.bankofamerica.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Tesoro Corporation",
+    "site": "www.tsocorp.com",
+    "position": 74,
+    "isSSL": false
+  },
+  {
+    "name": "FedEx Corporation",
+    "site": "www.fedex.com",
+    "position": 63,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "I1LEcq5RI7MLFAG2ixSjE3fDDOLnKDc2",
+      "C": "US",
+      "ST": "Tennessee",
+      "L": "Collierville",
+      "O": "FedEx",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.fedex.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "United Continental Holdings, Inc.",
+    "site": "www.unitedcontinentalholdings.com",
+    "position": 77,
+    "isSSL": false
+  },
+  {
+    "name": "Morgan Stanley",
+    "site": "www.morganstanley.com",
+    "position": 82,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "10036",
+      "ST": "NY",
+      "L": "New York",
+      "street": "1585 Broadway",
+      "O": "Morgan Stanley",
+      "OU": [
+        "Hosted by Morgan Stanley",
+        "Hosted by Morgan Stanley",
+        "Unified Communications"
+      ],
+      "CN": "www.morganstanley.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Mondelez International, Inc.",
+    "site": "www.mondelezinternational.com",
+    "position": 88,
+    "isSSL": false
+  },
+  {
+    "name": "E.I. du Pont de Nemours and Company",
+    "site": "www.dupont.com",
+    "position": 85,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "QXFYzPErzg1cCucBwIKUt4Mm5TtChSrZ",
+      "C": "US",
+      "ST": "Delaware",
+      "L": "Wilmington",
+      "O": "E.I. du Pont de Nemours and Company",
+      "OU": "Global",
+      "CN": "www.dupont.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "American Express Company",
+    "site": "www.americanexpress.com",
+    "position": 89,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "MmoG/qjRm-d9ULkegDllRw6R4CDCtji1",
+      "C": "US",
+      "ST": "Arizona",
+      "L": "Phoenix",
+      "O": "American Express Travel Related Services Company Inc",
+      "OU": "Consumer",
+      "CN": "americanexpress.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Delta Air Lines, Inc.",
+    "site": "www.delta.com",
+    "position": 80,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Georgia",
+      "L": "Atlanta",
+      "O": "Delta Air Lines, Inc.",
+      "OU": "Information Technology - Akamai",
+      "CN": "www.delta.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Liberty Mutual Holding Company Inc.",
+    "site": "www.libertymutual.com",
+    "position": 75,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "NEW HAMPSHIRE",
+      "L": "Portsmouth",
+      "O": "Liberty Mutual Group",
+      "OU": "Personal Insurance",
+      "CN": "www.libertymutual.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "HCA Holdings, Inc.",
+    "site": "www.hcahealthcare.com",
+    "position": 78,
+    "isSSL": false
+  },
+  {
+    "name": "Massachusetts Mutual Life Insurance Company",
+    "site": "www.massmutual.com",
+    "position": 95,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "MASSACHUSETTS",
+      "L": "Springfield",
+      "O": "MassMutual",
+      "OU": "ETO",
+      "CN": "www.massmutual.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Philip Morris International Inc.",
+    "site": "www.pmi.com",
+    "position": 99,
+    "isSSL": false
+  },
+  {
+    "name": "Ingram Micro Inc.",
+    "site": "www.ingrammicro.com",
+    "position": 68,
+    "isSSL": false
+  },
+  {
+    "name": "Aetna Inc.",
+    "site": "www.aetna.com",
+    "position": 56,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Connecticut",
+      "businessCategory": "Private Organization",
+      "serialNumber": "0081406",
+      "C": "US",
+      "postalCode": "06156",
+      "ST": "Connecticut",
+      "L": "Hartford",
+      "street": "151 Farmington Ave",
+      "O": "Aetna Life Insurance Company",
+      "CN": "www.aetna.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Plains GP Holdings, L.P.",
+    "site": "www.plainsallamerican.com",
+    "position": 69,
+    "isSSL": false
+  },
+  {
+    "name": "State Farm Insurance Cos.",
+    "site": "www.statefarm.com",
+    "position": 40,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Bloomington",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+      "O": "State Farm Mutual Automobile Insurance Company",
+      "businessCategory": "Private Organization",
+      "serialNumber": "37-0533100",
+      "CN": "www.statefarm.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Honeywell International Inc.",
+    "site": "www.honeywell.com",
+    "position": 76,
+    "isSSL": false
+  },
+  {
+    "name": "Tyson Foods, Inc.",
+    "site": "www.tysonfoods.com",
+    "position": 92,
+    "isSSL": false
+  },
+  {
+    "name": "Fluor Corporation",
+    "site": "www.fluor.com",
+    "position": 108,
+    "isSSL": false
+  },
+  {
+    "name": "McDonald's Corporation",
+    "site": "www.mcdonalds.com",
+    "position": 105,
+    "isSSL": false
+  },
+  {
+    "name": "Sears Holdings Corporation",
+    "site": "www.searsholdings.com",
+    "position": 86,
+    "isSSL": false
+  },
+  {
+    "name": "Wells Fargo",
+    "site": "www.wellsfargo.com",
+    "position": 28,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "San Francisco",
+      "O": "Wells Fargo and Company",
+      "OU": "DCT-PSG-ISG",
+      "CN": "www.wellsfargo.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "3M Company",
+    "site": "www.3m.com",
+    "position": 100,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "55144",
+      "ST": "Minnesota",
+      "L": "Saint Paul",
+      "street": "3M Center",
+      "O": "3M Company",
+      "OU": [
+        "3M Company",
+        "Hosted by 3M Company",
+        "Multi-Domain SSL"
+      ],
+      "CN": "solutions.3m.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Humana Inc.",
+    "site": "www.humana.com",
+    "position": 72,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Kentucky",
+      "L": "Louisville",
+      "O": "Humana Inc.",
+      "OU": "HUM",
+      "CN": "www.humana.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Emerson Electric Co.",
+    "site": "www.emerson.com",
+    "position": 120,
+    "isSSL": false
+  },
+  {
+    "name": "Qualcomm Incorporated",
+    "site": "www.qualcomm.com",
+    "position": 119,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "CA",
+      "L": "San Diego",
+      "O": "Qualcomm Incorporated",
+      "OU": "Corp.",
+      "CN": "*.qualcomm.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "INTL FCStone Inc.",
+    "site": "www.intlfcstone.com",
+    "position": 65,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": "Domain Control Validated",
+      "CN": "*.intlfcstone.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Travelers Companies, Inc.",
+    "site": "www.travelers.com",
+    "position": 113,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Minnesota",
+      "businessCategory": "Private Organization",
+      "serialNumber": "12-AA",
+      "C": "US",
+      "postalCode": "06183",
+      "ST": "Connecticut",
+      "L": "Hartford",
+      "street": "One Tower Square",
+      "O": "The Travelers Companies Inc",
+      "CN": "www.travelers.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "World Fuel Services Corporation",
+    "site": "www.wfscorp.com",
+    "position": 70,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Florida",
+      "L": "Doral",
+      "O": "World Fuel Services Corporation",
+      "OU": "Technology Services",
+      "CN": "secure.wfscorp.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "New York Life Insurance Company",
+    "site": "www.newyorklife.com",
+    "position": 87,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New York",
+      "L": "New York",
+      "O": "New York Life Insurance Company",
+      "OU": "Webserver",
+      "CN": "www.newyorklife.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Nike, Inc.",
+    "site": "www.nikeinc.com",
+    "position": 114,
+    "isSSL": false
+  },
+  {
+    "name": "International Paper Company",
+    "site": "www.internationalpaper.com",
+    "position": 104,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "dioyvJBCQY7bGVpHtfFHwNQ6qlxPUuBp",
+      "OU": [
+        "GT60141733",
+        "See www.rapidssl.com/resources/cps (c)13",
+        "Domain Control Validated - RapidSSL(R)"
+      ],
+      "CN": "www.internationalpaper.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Raytheon Company",
+    "site": "www.raytheon.com",
+    "position": 125,
+    "isSSL": false
+  },
+  {
+    "name": "Baker Hughes Incorporated",
+    "site": "www.bakerhughes.com",
+    "position": 131,
+    "isSSL": false
+  },
+  {
+    "name": "Rite Aid Corporation",
+    "site": "www.riteaid.com",
+    "position": 117,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "PA",
+      "L": "Camp Hill",
+      "O": "Rite Aid Corporation",
+      "OU": "Web",
+      "CN": "*.riteaid.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "US Foods, Inc.",
+    "site": "www.usfoods.com",
+    "position": 132,
+    "isSSL": false
+  },
+  {
+    "name": "Arrow Electronics, Inc",
+    "site": "www.arrow.com",
+    "position": 137,
+    "isSSL": false
+  },
+  {
+    "name": "The Hartford Financial Services Group, Inc.",
+    "site": "www.thehartford.com",
+    "position": 112,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Connecticut",
+      "L": "Hartford",
+      "O": "Hartford Fire Insurance",
+      "OU": "ISD CNOS",
+      "CN": "www.thehartford.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "HollyFrontier Corporation",
+    "site": "www.hollyfrontier.com",
+    "position": 144,
+    "isSSL": false
+  },
+  {
+    "name": "PBF Energy Inc.",
+    "site": "www,pbfenergy.com",
+    "position": 147,
+    "isSSL": false
+  },
+  {
+    "name": "Macy's, Inc.",
+    "site": "www.macysinc.com",
+    "position": 106,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2437460",
+      "C": "US",
+      "postalCode": "30097",
+      "ST": "Georgia",
+      "L": "Johns Creek",
+      "street": "5985 State Bridge Road",
+      "O": "Macy's Systems and Technology, Inc.",
+      "OU": "MST",
+      "CN": "www.macysinc.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Exelon Corporation",
+    "site": "www.exeloncorp.com",
+    "position": 118,
+    "isSSL": false
+  },
+  {
+    "name": "The Allstate Corporation",
+    "site": "www.allstate.com",
+    "position": 91,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+      "businessCategory": "Private Organization",
+      "serialNumber": "19312103",
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Northbrook",
+      "O": "Allstate Insurance Company",
+      "CN": "www.allstate.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Abbott Laboratories",
+    "site": "www.abbott.com",
+    "position": 135,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Abbott Park",
+      "O": "Abbott Laboratories",
+      "OU": "Abbott Laboratories",
+      "CN": "www.abbott.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Freeport-McMoRan Copper & Gold Inc.",
+    "site": "www.fcx.com",
+    "position": 141,
+    "isSSL": false
+  },
+  {
+    "name": "Northwestern Mutual Life Insurance Company,Inc.",
+    "site": "www.northwesternmutual.com",
+    "position": 109,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Wisconsin",
+      "L": "Milwaukee",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Wisconsin",
+      "O": "The Northwestern Mutual Life Insurance Company",
+      "businessCategory": "Private Organization",
+      "serialNumber": "01 01 1887",
+      "CN": "www.northwesternmutual.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Alcoa Inc.",
+    "site": "www.alcoa.com",
+    "position": 129,
+    "isSSL": false
+  },
+  {
+    "name": "Kohl's Corporation",
+    "site": "www.kohlscorporation.com",
+    "position": 150,
+    "isSSL": false
+  },
+  {
+    "name": "Whirlpool Corporation",
+    "site": "www.whirlpoolcorp.com",
+    "position": 152,
+    "isSSL": false
+  },
+  {
+    "name": "Jabil Circuit, Inc.",
+    "site": "www.jabil.com",
+    "position": 154,
+    "isSSL": false
+  },
+  {
+    "name": "Aflac Incorporated",
+    "site": "www.aflac.com",
+    "position": 124,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Georgia",
+      "L": "Columbus",
+      "O": "Aflac Incorporated",
+      "OU": "IT",
+      "CN": "www.aflac.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Global Partners LP",
+    "site": "www.globalp.com",
+    "position": 145,
+    "isSSL": false
+  },
+  {
+    "name": "Duke Energy Corporation",
+    "site": "www.duke-energy.com",
+    "position": 122,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "North Carolina",
+      "L": "Charlotte",
+      "O": "Duke Energy Carolinas, LLC",
+      "OU": "IT",
+      "CN": "*.duke-energy.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Capital One Financial Corporation",
+    "site": "www.capitalone.com",
+    "position": 123,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2419959",
+      "C": "US",
+      "postalCode": "22102",
+      "ST": "Virginia",
+      "L": "McLean",
+      "street": "1680 Capital One Dr",
+      "O": "Capital One Financial Corporation",
+      "OU": "IPS-ECM",
+      "CN": "www.capitalone.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "AT&T",
+    "site": "www.att.com",
+    "position": 10,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "MO",
+      "L": "Saint Louis",
+      "O": "AT&T Services inc",
+      "OU": "AT&T eCommerce",
+      "CN": "*.att.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Altria Group, Inc.",
+    "site": "www.altria.com",
+    "position": 160,
+    "isSSL": false
+  },
+  {
+    "name": "AbbVie Inc.",
+    "site": "www.abbvie.com",
+    "position": 151,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "North Chicago",
+      "O": "AbbVie Inc.",
+      "OU": "Global External Digital Communications IT",
+      "CN": "www.abbvie.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "site": "www.up.com",
+    "position": 134,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Nebraska",
+      "L": "Omaha",
+      "O": "Union Pacific Railroad Company",
+      "CN": "www.up.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Colgate-Palmolive Company",
+    "site": "www.colgatepalmolive.com",
+    "position": 166,
+    "isSSL": false
+  },
+  {
+    "name": "The AES Corporation",
+    "site": "www.aes.com",
+    "position": 173,
+    "isSSL": false
+  },
+  {
+    "name": "Lear Corporation",
+    "site": "www.lear.com",
+    "position": 176,
+    "isSSL": false
+  },
+  {
+    "name": "The Gap, Inc.",
+    "site": "www.gapinc.com",
+    "position": 177,
+    "isSSL": false
+  },
+  {
+    "name": "eBay Inc.",
+    "site": "www.ebayinc.com",
+    "position": 179,
+    "isSSL": false
+  },
+  {
+    "name": "Southwest Airlines Co.",
+    "site": "www.southwest.com",
+    "position": 159,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Dallas",
+      "O": "Southwest Airlines",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.southwest.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Microsoft",
+    "site": "www.microsoft.com",
+    "position": 33,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Washington",
+      "businessCategory": "Private Organization",
+      "serialNumber": "600413485",
+      "C": "US",
+      "postalCode": "98052",
+      "ST": "Washington",
+      "L": "Redmond",
+      "street": "1 Microsoft Way",
+      "O": "Microsoft Corporation",
+      "OU": "MSCOM",
+      "CN": "www.microsoft.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "The Progressive Corporation",
+    "site": "www.progressive.com",
+    "position": 156,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Ohio",
+      "L": "Mayfield Village",
+      "O": "Progressive Casualty Insurance Company",
+      "OU": "P-SSL-Internet-wwwprog",
+      "CN": "www.progressive.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Western Digital Corporation",
+    "site": "www.westerndigital.com",
+    "position": 186,
+    "isSSL": false
+  },
+  {
+    "name": "TRW Automotive Holdings Corp.",
+    "site": "www.trw.com",
+    "position": 164,
+    "isSSL": false
+  },
+  {
+    "name": "Illinois Tool Works Inc.",
+    "site": "www.itw.com",
+    "position": 170,
+    "isSSL": false
+  },
+  {
+    "name": "United States Steel Corporation",
+    "site": "www.ussteel.com",
+    "position": 165,
+    "isSSL": false
+  },
+  {
+    "name": "Kimberly-Clark Corporation",
+    "site": "www.kimberly-clark.com",
+    "position": 138,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "54956",
+      "ST": "WI",
+      "L": "Neenah",
+      "street": "2100 Winchester Road",
+      "O": "Kimberly-Clark Corporation",
+      "OU": [
+        "GWIS",
+        "Hosted by Kimberly-Clark Corporation",
+        "Multi-Domain SSL"
+      ],
+      "CN": "www.kimberly-clark.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Cummins Inc.",
+    "site": "www.cummins.com",
+    "position": 167,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Indiana",
+      "L": "Columbus",
+      "O": "Cummins Inc.",
+      "OU": "Web",
+      "CN": "www.cummins.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Murphy USA Inc.",
+    "site": "corporate.murphyusa.com",
+    "position": 174,
+    "isSSL": false
+  },
+  {
+    "name": "PPG Industries, Inc.",
+    "site": "www.ppg.com",
+    "position": 189,
+    "isSSL": false
+  },
+  {
+    "name": "Xerox Corporation",
+    "site": "www.xerox.com",
+    "position": 136,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "NY",
+      "L": "Rochester",
+      "O": "Xerox Corporation",
+      "OU": "Xerox.com",
+      "CN": "www.xerox.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "ConAgra Foods, Inc.",
+    "site": "www.conagrafoods.com",
+    "position": 183,
+    "isSSL": false
+  },
+  {
+    "name": "Viacom Inc.",
+    "site": "www.viacom.com",
+    "position": 209,
+    "isSSL": false
+  },
+  {
+    "name": "Apache Corporation",
+    "site": "www.apachecorp.com",
+    "position": 178,
+    "isSSL": false
+  },
+  {
+    "name": "NextEra Energy, Inc.",
+    "site": "www.nexteraenergy.com",
+    "position": 190,
+    "isSSL": false
+  },
+  {
+    "name": "Yum! Brands, Inc.",
+    "site": "www.yum.com",
+    "position": 215,
+    "isSSL": false
+  },
+  {
+    "name": "Chesapeake Energy Corporation",
+    "site": "www.chk.com",
+    "position": 162,
+    "isSSL": false
+  },
+  {
+    "name": "Marsh & McLennan Companies, Inc.",
+    "site": "www.mmc.com",
+    "position": 225,
+    "isSSL": false
+  },
+  {
+    "name": "Praxair, Inc.",
+    "site": "www.praxair.com",
+    "position": 232,
+    "isSSL": false
+  },
+  {
+    "name": "PG&E Corporation",
+    "site": "www.pge.com",
+    "position": 182,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "San Francisco",
+      "O": "Pacific Gas and Electric Company",
+      "CN": "www.pge.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Toys R Us, Inc.",
+    "site": "www.toysrusinc.com",
+    "position": 222,
+    "isSSL": false
+  },
+  {
+    "name": "Omnicom Group Inc.",
+    "site": "www.omnicomgroup.com",
+    "position": 200,
+    "isSSL": false
+  },
+  {
+    "name": "CSX Corporation",
+    "site": "www.csx.com",
+    "position": 230,
+    "isSSL": false
+  },
+  {
+    "name": "Smithfield Foods, Inc.",
+    "site": "www.smithfieldfoods.com",
+    "position": 213,
+    "isSSL": false
+  },
+  {
+    "name": "Community Health Systems, Inc.",
+    "site": "www.chs.net",
+    "position": 191,
+    "isSSL": false
+  },
+  {
+    "name": "The Chubb Corporation",
+    "site": "www.chubb.com",
+    "position": 207,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Warren",
+      "O": "The Chubb Corporation",
+      "OU": "IT Infrastructure",
+      "CN": "www.chubb.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "EOG Resources, Inc.",
+    "site": "www.eogresources.com",
+    "position": 202,
+    "isSSL": false
+  },
+  {
+    "name": "Genuine Parts Company",
+    "site": "www.genpt.com",
+    "position": 204,
+    "isSSL": false
+  },
+  {
+    "name": "The Bank of New York Mellon Corporation",
+    "site": "www.bnymellon.com",
+    "position": 180,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New York",
+      "L": "New York",
+      "O": "The Bank of New York Mellon",
+      "OU": "MVW",
+      "CN": "www.bnymellon.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Land O'Lakes, Inc.",
+    "site": "www.landolakesinc.com",
+    "position": 198,
+    "isSSL": false
+  },
+  {
+    "name": "National Oilwell Varco, Inc.",
+    "site": "www.nov.com",
+    "position": 130,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Houston",
+      "O": "National Oilwell Varco",
+      "CN": "www.nov.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Peter Kiewit Sons', Inc.",
+    "site": "www.kiewit.com",
+    "position": 235,
+    "isSSL": false
+  },
+  {
+    "name": "Huntsman Corporation",
+    "site": "www.huntsman.com",
+    "position": 252,
+    "isSSL": false
+  },
+  {
+    "name": "Dominion Resources, Inc.",
+    "site": "www.dom.com",
+    "position": 211,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Virginia",
+      "L": "Richmond",
+      "O": "Dominion Resources Services, Inc.",
+      "OU": "IT",
+      "CN": "www.dom.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Entergy Corporation",
+    "site": "www.entergy.com",
+    "position": 241,
+    "isSSL": false
+  },
+  {
+    "name": "Nordstrom, Inc.",
+    "site": "www.nordstrom.com",
+    "position": 223,
+    "isSSL": false
+  },
+  {
+    "name": "Guardian Life Ins. Co. of America",
+    "site": "www.guardianlife.com",
+    "position": 244,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Delaware",
+      "L": "Dover",
+      "O": "Incapsula Inc",
+      "CN": "incapsula.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Baxter International Inc.",
+    "site": "www.baxter.com",
+    "position": 188,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Deerfield",
+      "O": "Baxter Healthcare Corporation",
+      "OU": "Information Services Web100",
+      "CN": "www.baxter.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Parker-Hannifin Corporation",
+    "site": "www.parker.com",
+    "position": 216,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "44124",
+      "ST": "OH",
+      "L": "Cleveland",
+      "street": "6035 Parkland Blvd.",
+      "O": "Parker Hannifin Corporation",
+      "OU": [
+        "North America",
+        "Hosted by Parker Hannifin Corporation",
+        "PlatinumSSL Wildcard"
+      ],
+      "CN": "*.parker.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Anadarko Petroleum Corporation",
+    "site": "www.anadarko.com",
+    "position": 201,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "The Woodlands",
+      "O": "Anadarko Petroleum Corp.",
+      "CN": "*.anadarko.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Leucadia National Corporation",
+    "site": "www.leucadia.com",
+    "position": 251,
+    "isSSL": false
+  },
+  {
+    "name": "PPL Corporation",
+    "site": "www.pplweb.com",
+    "position": 233,
+    "isSSL": false
+  },
+  {
+    "name": "Textron Inc.",
+    "site": "www.textron.com",
+    "position": 227,
+    "isSSL": false
+  },
+  {
+    "name": "Bed Bath & Beyond Inc.",
+    "site": "www.bedbathandbeyond.com",
+    "position": 257,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "New York",
+      "businessCategory": "Private Organization",
+      "serialNumber": "315602",
+      "C": "US",
+      "postalCode": "07083",
+      "ST": "New Jersey",
+      "L": "Union",
+      "street": "650 Liberty Avenue",
+      "O": "Bed Bath & Beyond Inc.",
+      "OU": "TECHNOLOGY & OPERATIONS",
+      "CN": "www.bedbathandbeyond.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "C. H. Robinson Worldwide, Inc.",
+    "site": "www.chrobinson.com",
+    "position": 219,
+    "isSSL": false
+  },
+  {
+    "name": "Liberty Interactive Corporation",
+    "site": "www.libertyinteractive.com",
+    "position": 245,
+    "isSSL": false
+  },
+  {
+    "name": "Navistar International Corporation",
+    "site": "www.navistar.com",
+    "position": 258,
+    "isSSL": false
+  },
+  {
+    "name": "NRG Energy, Inc.",
+    "site": "www.nrgenergy.com",
+    "position": 243,
+    "isSSL": false
+  },
+  {
+    "name": "URS Corporation",
+    "site": "www.urs.com",
+    "position": 255,
+    "isSSL": false
+  },
+  {
+    "name": "Centene Corporation",
+    "site": "www.centene.com",
+    "position": 250,
+    "isSSL": false
+  },
+  {
+    "name": "AGCO Corporation",
+    "site": "www.agcocorp.com",
+    "position": 261,
+    "isSSL": false
+  },
+  {
+    "name": "Norfolk Southern Corporation",
+    "site": "www.nscorp.com",
+    "position": 246,
+    "isSSL": false
+  },
+  {
+    "name": "Sempra Energy",
+    "site": "www.sempra.com",
+    "position": 266,
+    "isSSL": false
+  },
+  {
+    "name": "Stanley Black & Decker, Inc.",
+    "site": "www.stanleyblackanddecker.com",
+    "position": 254,
+    "isSSL": false
+  },
+  {
+    "name": "BB&T Corporation",
+    "site": "www.bbt.com",
+    "position": 268,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "North Carolina",
+      "businessCategory": "Private Organization",
+      "serialNumber": "0023695",
+      "C": "US",
+      "postalCode": "27101",
+      "ST": "North Carolina",
+      "L": "Winston Salem",
+      "street": "200 W 2ND St",
+      "O": "Branch Banking and Trust Company",
+      "OU": "Online Channel - CDN",
+      "CN": "www.bbt.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Gilead Sciences, Inc.",
+    "site": "www.gilead.com",
+    "position": 249,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "L": "Foster City",
+      "ST": "California",
+      "O": "Gilead Sciences, Inc",
+      "CN": "*.gilead.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Whole Foods Market, Inc.",
+    "site": "www.wholefoodsmarket.com",
+    "position": 217,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Austin",
+      "O": "Whole Foods Market Services, Inc.",
+      "CN": "*.wholefoodsmarket.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Family Dollar Stores, Inc.",
+    "site": "www.familydollar.com",
+    "position": 270,
+    "isSSL": false
+  },
+  {
+    "name": "Ally Financial Inc.",
+    "site": "www.ally.com",
+    "position": 272,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Michigan",
+      "L": "Detroit",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "O": "Ally Financial Inc.",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2720811",
+      "CN": "www.ally.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "CenturyLink, Inc.",
+    "site": "www.centurylink.com",
+    "position": 157,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Louisiana",
+      "L": "Monroe",
+      "O": "CenturyLink",
+      "OU": "FOSS Web Engineering Team",
+      "CN": "www.centurylink.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Avon Products, Inc.",
+    "site": "www.avoncompany.com",
+    "position": 281,
+    "isSSL": false
+  },
+  {
+    "name": "Loews Corporation",
+    "site": "www.loews.com",
+    "position": 192,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "mnNV9bdx8NRk2yhfprTh-hNgv8twQXeU",
+      "OU": [
+        "133292876",
+        "See www.geotrust.com/resources/cps (c)13",
+        "Domain Control Validated - QuickSSL(R)"
+      ],
+      "CN": "www.loews.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Devon Energy Corporation",
+    "site": "www.devonenergy.com",
+    "position": 269,
+    "isSSL": false
+  },
+  {
+    "name": "Ameriprise Financial, Inc.",
+    "site": "www.ameriprise.com",
+    "position": 248,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2018118",
+      "C": "US",
+      "postalCode": "55474",
+      "ST": "Minnesota",
+      "L": "Minneapolis",
+      "street": "1099 Ameriprise Financial Ctr",
+      "O": "Ameriprise Financial Inc",
+      "OU": "Ameriprise Financial",
+      "CN": "www.ameriprise.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Unum Group",
+    "site": "www.unum.com",
+    "position": 271,
+    "isSSL": false
+  },
+  {
+    "name": "Ross Stores, Inc.",
+    "site": "www.rossstores.com",
+    "position": 276,
+    "isSSL": false
+  },
+  {
+    "name": "W.W. Grainger, Inc.",
+    "site": "www.grainger.com",
+    "position": 294,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "XVcThpEKZJN9RGq6/ZmZPjm8-Rv3SJLo",
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Lake Forest",
+      "O": "W.W. Grainger",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "lt.gcom.grainger.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Tenet Healthcare Corporation",
+    "site": "www.tenethealth.com",
+    "position": 228,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Dallas",
+      "O": "Tenet Healthcare",
+      "CN": "tenethealth.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Synnex Corporation",
+    "site": "www.synnex.com",
+    "position": 259,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "94538",
+      "ST": "California",
+      "L": "Fremont",
+      "street": "44201 Nobel Dr",
+      "O": "SYNNEX Corporation",
+      "OU": [
+        "IT",
+        "PremiumSSL Wildcard"
+      ],
+      "CN": "*.synnex.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Public Service Enterprise Group Incorporated",
+    "site": "www.pseg.com",
+    "position": 283,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "New Jersey",
+      "businessCategory": "Private Organization",
+      "serialNumber": "0100267099",
+      "C": "US",
+      "postalCode": "07102-4109",
+      "ST": "New Jersey",
+      "L": "Newark",
+      "street": "80 Park Plz",
+      "O": "Public Service Enterprise Group Incorporated",
+      "OU": "13v",
+      "CN": "www.pseg.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Discover Financial Services",
+    "site": "www.discoverfinancial.com",
+    "position": 295,
+    "isSSL": false
+  },
+  {
+    "name": "CDW Corporation",
+    "site": "www.cdw.com",
+    "position": 264,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+      "businessCategory": "Private Organization",
+      "serialNumber": "02909227",
+      "C": "US",
+      "postalCode": "60061",
+      "ST": "Illinois",
+      "L": "Vernon Hills",
+      "street": "200 N. Milwaukee Ave.",
+      "O": "CDW LLC",
+      "OU": "IT",
+      "CN": "www.cdw.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Sonic Automotive, Inc.",
+    "site": "www.sonicautomotive.com",
+    "position": 308,
+    "isSSL": false
+  },
+  {
+    "name": "AutoZone, Inc.",
+    "site": "www.autozone.com",
+    "position": 299,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Tennessee",
+      "L": "Memphis",
+      "O": "AutoZone",
+      "CN": "www.autozone.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Group 1 Automotive, Inc.",
+    "site": "www.group1auto.com",
+    "position": 306,
+    "isSSL": false
+  },
+  {
+    "name": "The TJX Companies, Inc.",
+    "site": "www.tjx.com",
+    "position": 107,
+    "isSSL": false
+  },
+  {
+    "name": "BlackRock, Inc.",
+    "site": "www.blackrock.com",
+    "position": 279,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "NY",
+      "L": "New York",
+      "O": "BlackRock Financial Management Inc.",
+      "OU": "Secure Services Division",
+      "CN": "*.blackrock.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Henry Schein, Inc.",
+    "site": "www.henryschein.com",
+    "position": 291,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New York",
+      "L": "Melville",
+      "O": "Henry Schein Inc",
+      "OU": "E-Commerce",
+      "CN": "www.henryschein.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Health Net, Inc.",
+    "site": "www.healthnet.com",
+    "position": 253,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Rancho Cordova",
+      "O": "Health Net, Inc.",
+      "CN": "www.healthnet.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Cognizant Technology Solutions Corporation",
+    "site": "www.cognizant.com",
+    "position": 307,
+    "isSSL": false
+  },
+  {
+    "name": "Owens & Minor, Inc.",
+    "site": "www.owens-minor.com",
+    "position": 302,
+    "isSSL": false
+  },
+  {
+    "name": "Western Refining, Inc.",
+    "site": "www.wnr.com",
+    "position": 280,
+    "isSSL": false
+  },
+  {
+    "name": "Jacobs Engineering Group Inc.",
+    "site": "www.jacobs.com",
+    "position": 236,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Pasadena",
+      "O": "Jacobs Engineering Company",
+      "CN": "*.jacobs.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Penske Automotive Group, Inc.",
+    "site": "www.penskeautomotive.com",
+    "position": 193,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "46WH4dCmLINIdJwDEOPZ2vOydUmj8Vu/",
+      "OU": [
+        "GT22615250",
+        "See www.geotrust.com/resources/cps (c)13",
+        "Domain Control Validated - QuickSSL(R) Premium"
+      ],
+      "CN": "www.penskeautomotive.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Crown Holdings, Inc.",
+    "site": "www.crowncork.com",
+    "position": 312,
+    "isSSL": false
+  },
+  {
+    "name": "KKR & Co. L.P.",
+    "site": "www.kkr.com",
+    "position": 287,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "3uTa3Bli55tn4kyY9MmOf4Pvs3xypcXq",
+      "OU": [
+        "GT09960998",
+        "See www.rapidssl.com/resources/cps (c)14",
+        "Domain Control Validated - RapidSSL(R)"
+      ],
+      "CN": "*.kkr.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Campbell Soup Company",
+    "site": "www.campbellsoupcompany.com",
+    "position": 314,
+    "isSSL": false
+  },
+  {
+    "name": "Cameron International Corporation",
+    "site": "www.c-a-m.com",
+    "position": 285,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Houston",
+      "O": "Cameron International Corporation",
+      "OU": "EA",
+      "CN": "c-a-m.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Dover Corporation",
+    "site": "www.dovercorporation.com",
+    "position": 300,
+    "isSSL": false
+  },
+  {
+    "name": "Autoliv, Inc.",
+    "site": "www.autoliv.com",
+    "position": 309,
+    "isSSL": false
+  },
+  {
+    "name": "Motorola Solutions, Inc.",
+    "site": "www.motorolasolutions.com",
+    "position": 311,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Schaumburg",
+      "O": "Motorola Solutions, Inc.",
+      "OU": "Marketing",
+      "CN": "*.motorolasolutions.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Weyerhaeuser Company",
+    "site": "www.weyerhaeuser.com",
+    "position": 319,
+    "isSSL": false
+  },
+  {
+    "name": "Eastman Chemical Company",
+    "site": "www.eastman.com",
+    "position": 296,
+    "isSSL": false
+  },
+  {
+    "name": "Xcel Energy Inc.",
+    "site": "www.xcelenergy.com",
+    "position": 256,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Minnesota",
+      "L": "Minneapolis",
+      "O": "Xcel Energy",
+      "OU": "Business Systems",
+      "CN": "www.xcelenergy.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "CenterPoint Energy, Inc.",
+    "site": "www.centerpointenergy.com",
+    "position": 332,
+    "isSSL": false
+  },
+  {
+    "name": "Newmont Mining Corporation",
+    "site": "www.newmont.com",
+    "position": 326,
+    "isSSL": false
+  },
+  {
+    "name": "Hormel Foods Corporation",
+    "site": "www.hormelfoods.com",
+    "position": 310,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "SnUi0AAH8jdrW6blWjgwLc4RYUCbqXBB",
+      "OU": [
+        "GT92251028",
+        "See www.rapidssl.com/resources/cps (c)14",
+        "Domain Control Validated - RapidSSL(R)"
+      ],
+      "CN": "*.hormelfoods.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Principal Financial Group, Inc.",
+    "site": "www.principal.com",
+    "position": 297,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Iowa",
+      "L": "Des Moines",
+      "O": "Principal Financial Group",
+      "OU": "Principal Financial Group",
+      "CN": "www.principal.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "MGM Resorts International",
+    "site": "www.mgmresorts.com",
+    "position": 286,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Nevada",
+      "L": "Las Vegas",
+      "O": "MGM Resorts International",
+      "OU": "Information Systems",
+      "CN": "www.mgmresorts.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Genworth Financial, Inc.",
+    "site": "www.genworth.com",
+    "position": 290,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "5242840",
+      "C": "US",
+      "ST": "Virginia",
+      "L": "Richmond",
+      "O": "Genworth Financial Inc.",
+      "OU": "HQ",
+      "CN": "www.genworth.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Precision Castparts Corp.",
+    "site": "www.precast.com",
+    "position": 321,
+    "isSSL": false
+  },
+  {
+    "name": "Corning Incorporated",
+    "site": "www.corning.com",
+    "position": 342,
+    "isSSL": false
+  },
+  {
+    "name": "Ashland Inc.",
+    "site": "www.ashland.com",
+    "position": 343,
+    "isSSL": false
+  },
+  {
+    "name": "WESCO International, Inc.",
+    "site": "www.wesco.com",
+    "position": 348,
+    "isSSL": false
+  },
+  {
+    "name": "Franklin Resources, Inc.",
+    "site": "www.franklinresources.com",
+    "position": 336,
+    "isSSL": false
+  },
+  {
+    "name": "Darden Restaurants, Inc.",
+    "site": "www.darden.com",
+    "position": 318,
+    "isSSL": true,
+    "certificateSubject": {
+      "CN": "www.darden.com",
+      "O": "Darden Restaurants, Inc.",
+      "L": "Orlando",
+      "ST": "Florida",
+      "C": "US"
+    },
+    "isEV": false
+  },
+  {
+    "name": "HD Supply Holdings, Inc.",
+    "site": "www.hdsupply.com",
+    "position": 316,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Florida",
+      "L": "Orlando",
+      "O": "HD Supply",
+      "CN": "www.hdsupply.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Applied Materials, Inc.",
+    "site": "www.appliedmaterials.com",
+    "position": 349,
+    "isSSL": false
+  },
+  {
+    "name": "UGI Corporation",
+    "site": "www.ugicorp.com",
+    "position": 361,
+    "isSSL": false
+  },
+  {
+    "name": "SunTrust Banks, Inc.",
+    "site": "www.suntrust.com",
+    "position": 313,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "businessCategory": "Private Organization",
+      "serialNumber": "675332",
+      "C": "US",
+      "ST": "Georgia",
+      "L": "Atlanta",
+      "O": "SunTrust Bank",
+      "CN": "www.suntrust.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "KBR, Inc.",
+    "site": "www.kbr.com",
+    "position": 359,
+    "isSSL": false
+  },
+  {
+    "name": "The Hershey Company",
+    "site": "www.thehersheycompany.com",
+    "position": 365,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "jdHNp63c5oeynv5RNgb/ZGarXdTCU0W4",
+      "C": "US",
+      "ST": "Pennsylvania",
+      "L": "Hershey",
+      "O": "Hershey Chocolate and Confectionery Corporation",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.hersheys.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Pacific Life",
+    "site": "www.pacificlife.com",
+    "position": 333,
+    "isSSL": false
+  },
+  {
+    "name": "Broadcom Corporation",
+    "site": "www.broadcom.com",
+    "position": 327,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Irvine",
+      "O": "Broadcom",
+      "CN": "www.broadcom.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Oaktree Capital Group, LLC",
+    "site": "www.oaktreecapital.com",
+    "position": 353,
+    "isSSL": false
+  },
+  {
+    "name": "CBRE Group, Inc.",
+    "site": "www.cbre.com",
+    "position": 362,
+    "isSSL": false
+  },
+  {
+    "name": "Texas Instruments Incorporated",
+    "site": "www.ti.com",
+    "position": 226,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Plano",
+      "O": "Texas Instruments",
+      "OU": "Sales and Marketing IT",
+      "CN": "www.ti.com.cn"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Terex Corporation",
+    "site": "www.terex.com",
+    "position": 357,
+    "isSSL": false
+  },
+  {
+    "name": "Micron Technology, Inc.",
+    "site": "www.micron.com",
+    "position": 301,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Idaho",
+      "L": "Boise",
+      "O": "Micron Technology, Inc.",
+      "CN": "*.micron.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Pantry, Inc.",
+    "site": "www.thepantry.com",
+    "position": 370,
+    "isSSL": false
+  },
+  {
+    "name": "Jarden Corporation",
+    "site": "www.jarden.com",
+    "position": 355,
+    "isSSL": false
+  },
+  {
+    "name": "Steel Dynamics, Inc.",
+    "site": "www.steeldynamics.com",
+    "position": 354,
+    "isSSL": false
+  },
+  {
+    "name": "Ball Corporation",
+    "site": "www.ball.com",
+    "position": 320,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Colorado",
+      "L": "Broomfield",
+      "O": "Ball Corporation",
+      "CN": "www.ball.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "PVH Corp.",
+    "site": "www.pvh.com",
+    "position": 329,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": "Domain Control Validated",
+      "CN": "www.pvh.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "CMS Energy Corporation",
+    "site": "www.cmsenergy.com",
+    "position": 393,
+    "isSSL": false
+  },
+  {
+    "name": "Huntington Ingalls Industries, Inc.",
+    "site": "www.huntingtoningalls.com",
+    "position": 381,
+    "isSSL": false
+  },
+  {
+    "name": "Sealed Air Corporation",
+    "site": "www.sealedair.com",
+    "position": 344,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "South Carolina",
+      "L": "Duncan",
+      "O": "Sealed Air Corporation",
+      "OU": "IS",
+      "CN": "www.sealedair.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Seaboard Corporation",
+    "site": "www.seaboardcorp.com",
+    "position": 386,
+    "isSSL": false
+  },
+  {
+    "name": "Targa Resources Corp.",
+    "site": "www.targaresources.com",
+    "position": 394,
+    "isSSL": false
+  },
+  {
+    "name": "The Interpublic Group of Companies, Inc.",
+    "site": "www.interpublic.com",
+    "position": 368,
+    "isSSL": false
+  },
+  {
+    "name": "Quanta Services, Inc.",
+    "site": "www.quantaservices.com",
+    "position": 395,
+    "isSSL": false
+  },
+  {
+    "name": "PetSmart, Inc.",
+    "site": "www.petm.com",
+    "position": 375,
+    "isSSL": false
+  },
+  {
+    "name": "The Priceline Group Inc.",
+    "site": "www.pricelinegroup.com",
+    "position": 382,
+    "isSSL": false
+  },
+  {
+    "name": "Northeast Utilities",
+    "site": "www.nu.com",
+    "position": 358,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "06037",
+      "ST": "Connecticut",
+      "L": "Berlin",
+      "street": "107 Selden St.",
+      "O": "Northeast Utilities Service Co",
+      "OU": [
+        "IT",
+        "Hosted by Northeast Utilities Service Co",
+        "EliteSSL"
+      ],
+      "CN": "www.nu.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Williams Companies, Inc.",
+    "site": "www.williams.com",
+    "position": 379,
+    "isSSL": false
+  },
+  {
+    "name": "Coca-Cola Enterprises, Inc.",
+    "site": "www.cokecce.com",
+    "position": 347,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Georgia",
+      "L": "Atlanta",
+      "O": "Coca Cola Enterprises",
+      "CN": "www.cokecce.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Mattel, Inc.",
+    "site": "www.mattel.com",
+    "position": 402,
+    "isSSL": false
+  },
+  {
+    "name": "Assurant, Inc.",
+    "site": "www.assurant.com",
+    "position": 303,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "10005-1420",
+      "ST": "New York",
+      "L": "New York",
+      "street": "1 Chase Manhattan Plaza",
+      "O": "Assurant, Inc.",
+      "OU": [
+        "ACT WebHosting",
+        "Hosted by Assurant, Inc.",
+        "PlatinumSSL Wildcard"
+      ],
+      "CN": "*.assurant.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Foot Locker, Inc.",
+    "site": "www.footlocker-inc.com",
+    "position": 399,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "0cyMJxAq1qV7AmX51lRhwM4p/3LG3u/6",
+      "C": "US",
+      "ST": "New York",
+      "L": "New York",
+      "O": "Foot Locker Retail, Inc.",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.footlocker.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Blackstone Group L.P.",
+    "site": "www.blackstone.com",
+    "position": 390,
+    "isSSL": false
+  },
+  {
+    "name": "General Mills, Inc.",
+    "site": "www.generalmills.com",
+    "position": 158,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "55426",
+      "ST": "MN",
+      "L": "Golden Valley",
+      "street": "1 General Mills Blvd",
+      "O": "General Mills, Inc.",
+      "OU": [
+        "Information Systems",
+        "InstantSSL"
+      ],
+      "CN": "www.generalmills.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Allergan, Inc.",
+    "site": "www.allergan.com",
+    "position": 407,
+    "isSSL": false
+  },
+  {
+    "name": "Ryder System, Inc.",
+    "site": "www.ryder.com",
+    "position": 405,
+    "isSSL": false
+  },
+  {
+    "name": "General Cable Corporation",
+    "site": "www.generalcable.com",
+    "position": 404,
+    "isSSL": false
+  },
+  {
+    "name": "Ingredion Incorporated",
+    "site": "www.ingredion.com",
+    "position": 411,
+    "isSSL": false
+  },
+  {
+    "name": "W.R. Berkley Corporation",
+    "site": "www.wrberkley.com",
+    "position": 408,
+    "isSSL": false
+  },
+  {
+    "name": "Thrivent Financial for Lutherans",
+    "site": "www.thrivent.com",
+    "position": 334,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Minnesota",
+      "L": "Minneapolis",
+      "O": "Thrivent Financial for Lutherans",
+      "OU": "IT Operations",
+      "CN": "*.thrivent.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "SanDisk Corporation",
+    "site": "www.sandisk.com",
+    "position": 421,
+    "isSSL": false
+  },
+  {
+    "name": "FMC Technologies, Inc.",
+    "site": "www.fmctechnologies.com",
+    "position": 367,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "77067",
+      "ST": "TX",
+      "L": "Houston",
+      "street": "1803 Gears Rd",
+      "O": "FMC Technologies, Inc",
+      "OU": [
+        "Corporate IT",
+        "Secure Link SSL Wildcard"
+      ],
+      "CN": "*.fmctechnologies.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "EMCOR Group, Inc.",
+    "site": "www.emcorgroup.com",
+    "position": 406,
+    "isSSL": false
+  },
+  {
+    "name": "WellCare Health Plans, Inc.",
+    "site": "www.wellcare.com",
+    "position": 293,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "33634",
+      "ST": "FL",
+      "L": "Tampa",
+      "street": "8735 Henderson Rd",
+      "O": "Comprehensive Health Mgt., Inc.",
+      "OU": [
+        "Issued through Comprehensive Health Mgt., Inc. E-PKI Manager",
+        "SGC SSL Wildcard"
+      ],
+      "CN": "*.wellcare.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Dr Pepper Snapple Group, Inc.",
+    "site": "www.drpeppersnapplegroup.com",
+    "position": 429,
+    "isSSL": false
+  },
+  {
+    "name": "Casey's General Stores, Inc.",
+    "site": "www.caseys.com",
+    "position": 388,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Iowa",
+      "L": "Ankeny",
+      "O": "Casey's General Stores, Inc.",
+      "OU": "Information Technology",
+      "CN": "*.caseys.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Starwood Hotels & Resorts Worldwide, Inc.",
+    "site": "www.starwoodhotels.com",
+    "position": 423,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "pnLJWcNvfqb1c6xudcHSdDlyCL7XZHqr",
+      "C": "US",
+      "ST": "Connecticut",
+      "L": "Hartford",
+      "O": "Starwood Hotels & Resorts Worldwide",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "aka-sgr.starwoodhotels.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Cablevision Systems Corporation",
+    "site": "www.cablevision.com",
+    "position": 396,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2824510",
+      "C": "US",
+      "postalCode": "11714-3533",
+      "ST": "New York",
+      "L": "Bethpage",
+      "street": "1111 Stewart Ave",
+      "O": "Cablevision Systems Corporation",
+      "OU": "Optimum Online",
+      "CN": "www.cablevision.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "CC Media Holdings, Inc.",
+    "site": "www.clearchannel.com",
+    "position": 418,
+    "isSSL": false
+  },
+  {
+    "name": "Newell Rubbermaid Inc.",
+    "site": "www.newellrubbermaid.com",
+    "position": 435,
+    "isSSL": false
+  },
+  {
+    "name": "PulteGroup, Inc.",
+    "site": "www.pultegroupinc.com",
+    "position": 445,
+    "isSSL": false
+  },
+  {
+    "name": "ManpowerGroup Inc.",
+    "site": "www.manpowergroup.com",
+    "position": 143,
+    "isSSL": false
+  },
+  {
+    "name": "Susser Holdings Corporation",
+    "site": "www.susser.com",
+    "position": 438,
+    "isSSL": false
+  },
+  {
+    "name": "Kindred Healthcare, Inc.",
+    "site": "www.kindredhealthcare.com",
+    "position": 440,
+    "isSSL": false
+  },
+  {
+    "name": "Lennar Corporation",
+    "site": "www.lennar.com",
+    "position": 430,
+    "isSSL": false
+  },
+  {
+    "name": "Core-Mark Holding Company, Inc.",
+    "site": "www.core-mark.com",
+    "position": 345,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "CA",
+      "ST": "British Columbia",
+      "L": "Richmond",
+      "O": "Core-Mark International Inc",
+      "OU": [
+        "Information Technology Group",
+        "Terms of use at www.verisign.com/rpa (c)05"
+      ],
+      "CN": "www.core-mark.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Celgene Corporation",
+    "site": "www.celgene.com",
+    "position": 400,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Summit",
+      "O": "CELGENE CORPORATION",
+      "CN": "www.celgene.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Integrys Energy Group, Inc.",
+    "site": "www.integrysgroup.com",
+    "position": 449,
+    "isSSL": false
+  },
+  {
+    "name": "American Family Ins. Group",
+    "site": "www.amfam.com",
+    "position": 372,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Wisconsin",
+      "businessCategory": "Private Organization",
+      "serialNumber": "DOC: 19270101",
+      "C": "US",
+      "postalCode": "53783-0001",
+      "ST": "Wisconsin",
+      "L": "Madison",
+      "street": "6000 American Pkwy",
+      "O": "American Family Mutual Insurance Company",
+      "OU": "GRL server3",
+      "CN": "www.amfam.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Harbinger Group Inc.",
+    "site": "www.harbingergroupinc.com",
+    "position": 455,
+    "isSSL": false
+  },
+  {
+    "name": "Omnicare, Inc.",
+    "site": "www.omnicare.com",
+    "position": 414,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Kentucky",
+      "L": "Covington",
+      "O": "Omnicare Inc",
+      "OU": [
+        "OIS",
+        "Terms of use at www.verisign.com/rpa (c)05"
+      ],
+      "CN": "www.omnicare.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Vanguard Health Systems, Inc.",
+    "site": "www.tenethealth.com",
+    "position": 387,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Dallas",
+      "O": "Tenet Healthcare",
+      "CN": "tenethealth.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The J.M. Smucker Company",
+    "site": "www.smucker.com",
+    "position": 434,
+    "isSSL": false
+  },
+  {
+    "name": "CF Industries Holdings, Inc.",
+    "site": "www.cfindustries.com",
+    "position": 462,
+    "isSSL": false
+  },
+  {
+    "name": "Erie Insurance Group",
+    "site": "www.erieinsurance.com",
+    "position": 415,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Pennsylvania",
+      "L": "Erie",
+      "O": "Erie Insurance Group",
+      "OU": "IT Ops",
+      "CN": "www.erieinsurance.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Domtar Corporation",
+    "site": "www.domtar.com",
+    "position": 468,
+    "isSSL": false
+  },
+  {
+    "name": "CH2M HILL Companies, Ltd.",
+    "site": "www.ch2m.com",
+    "position": 436,
+    "isSSL": false
+  },
+  {
+    "name": "Discovery Communications, Inc.",
+    "site": "www.discoverycommunications.com",
+    "position": 459,
+    "isSSL": false
+  },
+  {
+    "name": "Booz Allen Hamilton Holding Corp.",
+    "site": "www.boozallen.com",
+    "position": 442,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Virginia",
+      "L": "McLean",
+      "O": "Booz Allen Hamilton, Inc.",
+      "CN": "boozallen.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Leidos Holdings Inc.",
+    "site": "www.leidos.com",
+    "position": 441,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "20191",
+      "ST": "VA",
+      "L": "Reston",
+      "street": [
+        "5th Floor",
+        "11951 Freedom Drive"
+      ],
+      "O": "Leidos, Inc.",
+      "OU": [
+        "ITS",
+        "Unified Communications"
+      ],
+      "CN": "www.leidos.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Harris Corporation",
+    "site": "www.harris.com",
+    "position": 470,
+    "isSSL": false
+  },
+  {
+    "name": "Owens Corning",
+    "site": "www.owenscorning.com",
+    "position": 474,
+    "isSSL": false
+  },
+  {
+    "name": "Gannett Co., Inc.",
+    "site": "www.gannett.com",
+    "position": 480,
+    "isSSL": false
+  },
+  {
+    "name": "Asbury Automotive Group, Inc.",
+    "site": "www.asburyauto.com",
+    "position": 471,
+    "isSSL": false
+  },
+  {
+    "name": "Fidelity National Information Services, Inc.",
+    "site": "www.fisglobal.com",
+    "position": 425,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Florida",
+      "L": "Jacksonville",
+      "O": "Fidelity National Information Services",
+      "OU": "Information Security",
+      "CN": "*.fisglobal.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Andersons, Inc.",
+    "site": "www.andersonsinc.com",
+    "position": 452,
+    "isSSL": false
+  },
+  {
+    "name": "Host Hotels & Resorts, Inc.",
+    "site": "www.hosthotels.com",
+    "position": 476,
+    "isSSL": false
+  },
+  {
+    "name": "Regions Financial Corporation",
+    "site": "www.regions.com",
+    "position": 446,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "3764617",
+      "C": "US",
+      "postalCode": "35203",
+      "ST": "Alabama",
+      "L": "Birmingham",
+      "street": "1900 Fifth Avenue North",
+      "O": "Regions Financial Corporation",
+      "OU": "ECommerce",
+      "CN": "www.regions.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "JetBlue Airways Corporation",
+    "site": "www.jetblue.com",
+    "position": 465,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "NY",
+      "L": "Forest Hills",
+      "O": "JetBlue Airways Corporation",
+      "OU": "Akamai Wildcard SSL",
+      "CN": "*.jetblue.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Auto-Owners Insurance Group",
+    "site": "www.auto-owners.com",
+    "position": 427,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "48917",
+      "ST": "MI",
+      "L": "Lansing",
+      "street": "6101 Anacapri Blvd.",
+      "O": "Auto-Owners Insurance Company",
+      "OU": [
+        "IT",
+        "Secure Link SSL Wildcard"
+      ],
+      "CN": "*.auto-owners.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "site": "www.jbhunt.com",
+    "position": 453,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "72745",
+      "ST": "AR",
+      "L": "Lowell",
+      "street": "615 J B Hunt Corporate Drive",
+      "O": "J B Hunt Transport",
+      "OU": "PremiumSSL Wildcard",
+      "CN": "*.jbhunt.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Alleghany Corporation",
+    "site": "www.alleghany.com",
+    "position": 496,
+    "isSSL": false
+  },
+  {
+    "name": "American Financial Group, Inc.",
+    "site": "www.afginc.com",
+    "position": 486,
+    "isSSL": false
+  },
+  {
+    "name": "Calumet Specialty Products Partners, L.P.",
+    "site": "www.calumetspecialty.com",
+    "position": 466,
+    "isSSL": false
+  },
+  {
+    "name": "Energy Future Holdings Corp.",
+    "site": "www.energyfutureholdings.com",
+    "position": 437,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": "Domain Control Validated",
+      "CN": "*.energyfutureholdings.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Noble Energy, Inc.",
+    "site": "www.nobleenergyinc.com",
+    "position": 490,
+    "isSSL": false
+  },
+  {
+    "name": "Kelly Services, Inc.",
+    "site": "www.kellyservices.com",
+    "position": 467,
+    "isSSL": false
+  },
+  {
+    "name": "The Jones Financial Companies,L.L.L.P.",
+    "site": "www.edwardjones.com",
+    "position": 443,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Missouri",
+      "L": "Des Peres",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Missouri",
+      "O": "Edward D. Jones & Co., L.P.",
+      "businessCategory": "Private Organization",
+      "OU": "IS",
+      "serialNumber": "LP0000700 + CN=www.edwardjones.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "St. Jude Medical, Inc.",
+    "site": "www.sjm.com",
+    "position": 461,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "YnleXxFSf6GByMv3LVbdrJCBPWAN6WWa",
+      "C": "US",
+      "ST": "Minnesota",
+      "L": "Saint Paul",
+      "O": "St. Jude Medical, Inc.",
+      "OU": "Global IT",
+      "CN": "*.sjm.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "General Motors",
+    "site": "www.gm.com",
+    "position": 6,
+    "isSSL": false
+  },
+  {
+    "name": "Ford Motor",
+    "site": "www.ford.com",
+    "position": 7,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "zNONjzaRrBQN0bUyy1MHjHqZ-c3MjU/H",
+      "C": "IN",
+      "ST": "Tamil Nadu",
+      "L": "Chengalpattu",
+      "O": "Ford India Private Limited",
+      "OU": "Marketing and Sales",
+      "CN": "secure.fordeumicrosites.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Wyndham Worldwide Corporation",
+    "site": "www.wyndhamworldwide.com",
+    "position": 493,
+    "isSSL": false
+  },
+  {
+    "name": "International Business Machines",
+    "site": "www.ibm.com",
+    "position": 22,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "F9cuXn9ouk/iuExNcr7r9PH4eFF48p1t",
+      "C": "US",
+      "ST": "New York",
+      "L": "Armonk",
+      "O": "IBM",
+      "CN": "global.ibm.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "NII Holdings, Inc.",
+    "site": "www.nii.com",
+    "position": 494,
+    "isSSL": false
+  },
+  {
+    "name": "Insight Enterprises, Inc.",
+    "site": "www.insight.com",
+    "position": 482,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Arizona",
+      "L": "Tempe",
+      "O": "Insight Enterprises, Inc.",
+      "CN": "*.insight.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Buckeye Partners, L.P.",
+    "site": "www.buckeye.com",
+    "position": 484,
+    "isSSL": false
+  },
+  {
+    "name": "SLM Corporation",
+    "site": "www.salliemae.com",
+    "position": 416,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2651098",
+      "C": "US",
+      "postalCode": "46038-9203",
+      "ST": "Indiana",
+      "L": "Fishers",
+      "street": "11100 USA Pkwy",
+      "O": "Sallie Mae, Inc.",
+      "OU": "Enterprise Technology",
+      "CN": "www.salliemae.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Tractor Supply Company",
+    "site": "www.tractorsupply.com",
+    "position": 479,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "0949106",
+      "C": "US",
+      "ST": "Tennessee",
+      "L": "Brentwood",
+      "O": "Tractor Supply Company",
+      "CN": "www.tractorsupply.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Rockwell Automation, Inc.",
+    "site": "www.rockwellautomation.com",
+    "position": 409,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "WI",
+      "L": "Milwaukee",
+      "O": "Rockwell Automation, Inc.",
+      "OU": "IT",
+      "CN": "www.rockwellautomation.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Lorillard, Inc.",
+    "site": "www.lorillard.com",
+    "position": 495,
+    "isSSL": false
+  },
+  {
+    "name": "Google",
+    "site": "www.google.com",
+    "position": 45,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Mountain View",
+      "O": "Google Inc",
+      "CN": "www.google.co.uk"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Quintiles Transnational Holdings Inc.",
+    "site": "www.quintiles.com",
+    "position": 485,
+    "isSSL": false
+  },
+  {
+    "name": "United Parcel Service",
+    "site": "www.ups.com",
+    "position": 49,
+    "isSSL": false
+  },
+  {
+    "name": "American International Group",
+    "site": "www.aig.com",
+    "position": 39,
+    "isSSL": false
+  },
+  {
+    "name": "United Stationers Inc.",
+    "site": "www.unitedstationers.com",
+    "position": 487,
+    "isSSL": true,
+    "certificateSubject": {
+      "businessCategory": "Private Organization",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Illinois",
+      "serialNumber": "16487481",
+      "street": [
+        "Suite 100",
+        "1 Parkway North"
+      ],
+      "postalCode": "60015",
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Deerfield",
+      "O": "United Stationers Supply Co.",
+      "CN": "www.unitedstationers.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Procter & Gamble",
+    "site": "www.pg.com",
+    "position": 30,
+    "isSSL": false
+  },
+  {
+    "name": "Graybar Electric Company, Inc.",
+    "site": "www.graybar.com",
+    "position": 448,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Missouri",
+      "L": "St. Louis",
+      "O": "Graybar Electric Company, Inc.",
+      "OU": "IT",
+      "CN": "www.graybar.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Charles Schwab Corporation",
+    "site": "www.aboutschwab.com",
+    "position": 458,
+    "isSSL": false
+  },
+  {
+    "name": "Las Vegas Sands Corp.",
+    "site": "www.sands.com",
+    "position": 210,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "EzlyeDHybMlmhoiPJCWPwFib9XYqshtA",
+      "C": "US",
+      "ST": "Nevada",
+      "L": "Las Vegas",
+      "O": "Las Vegas Sands Corp.",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "assets.sands.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Deere & Company",
+    "site": "www.deere.com",
+    "position": 79,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "ZiDGLwgIaPWjuC73-NjrR/NFRR06A7eO",
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Moline",
+      "O": "Deere & Company",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.deere.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Citigroup",
+    "site": "www.citigroup.com",
+    "position": 25,
+    "isSSL": false
+  },
+  {
+    "name": "Joy Global Inc.",
+    "site": "www.joyglobal.com",
+    "position": 492,
+    "isSSL": false
+  },
+  {
+    "name": "Computer Sciences Corporation",
+    "site": "www.csc.com",
+    "position": 184,
+    "isSSL": false
+  },
+  {
+    "name": "Kellogg Company",
+    "site": "www.kelloggcompany.com",
+    "position": 197,
+    "isSSL": false
+  },
+  {
+    "name": "Safeway Inc.",
+    "site": "www.safeway.com",
+    "position": 66,
+    "isSSL": false
+  },
+  {
+    "name": "TIAA-CREF",
+    "site": "www.tiaa-cref.org",
+    "position": 94,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "69345",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "NY",
+      "businessCategory": "Private Organization",
+      "C": "US",
+      "postalCode": "10017",
+      "ST": "NEW YORK",
+      "L": "New York",
+      "street": "730 3rd Ave",
+      "O": "Teachers Insurance and Annuity Association of America",
+      "OU": "Comodo EV SAN SSL",
+      "CN": "ais2.tiaa-cref.org"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Murphy Oil Corporation",
+    "site": "www.murphyoilcorp.com",
+    "position": 469,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Arkansas",
+      "L": "El Dorado",
+      "O": "Murphy Oil Corporation",
+      "OU": [
+        "Information Systems",
+        "Terms of use at www.verisign.com/rpa (c)05"
+      ],
+      "CN": "www.murphyoilcorp.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Staples, Inc.",
+    "site": "www.staples.com",
+    "position": 126,
+    "isSSL": false
+  },
+  {
+    "name": "Hertz Global Holdings, Inc.",
+    "site": "www.hertz.com",
+    "position": 263,
+    "isSSL": true,
+    "certificateSubject": {
+      "serialNumber": "eeUYQNhd-v1RwQqY6k-5LAisoIhxw0bz",
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Park Ridge",
+      "O": "The Hertz Corporation",
+      "OU": "ISD",
+      "CN": "www.hertz.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "EMC Corporation",
+    "site": "www.emc.com",
+    "position": 127,
+    "isSSL": false
+  },
+  {
+    "name": "Bemis Company, Inc.",
+    "site": "www.bemis.com",
+    "position": 491,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": "Domain Control Validated",
+      "CN": "www.bemis.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc.",
+    "site": "www.thermofisher.com",
+    "position": 214,
+    "isSSL": false
+  },
+  {
+    "name": "Realogy Holdings Corp.",
+    "site": "www.realogy.com",
+    "position": 475,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Madison",
+      "O": "Realogy Group LLC",
+      "OU": "IT",
+      "CN": "realogy.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "NiSource Inc.",
+    "site": "www.nisource.com",
+    "position": 447,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Indiana",
+      "L": "Merrillville",
+      "O": "NiSource Corporate Services Company",
+      "CN": "www.nisource.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Lowe's Companies",
+    "site": "www.lowes.com",
+    "position": 51,
+    "isSSL": false
+  },
+  {
+    "name": "CarMax, Inc.",
+    "site": "www.carmax.com",
+    "position": 239,
+    "isSSL": false
+  },
+  {
+    "name": "DISH Network Corporation",
+    "site": "www.dish.com",
+    "position": 203,
+    "isSSL": false
+  },
+  {
+    "name": "Office Depot, Inc.",
+    "site": "www.officedepot.com",
+    "position": 247,
+    "isSSL": false
+  },
+  {
+    "name": "Con-way Inc.",
+    "site": "www.con-way.com",
+    "position": 463,
+    "isSSL": false
+  },
+  {
+    "name": "Symantec Corporation",
+    "site": "www.symantec.com",
+    "position": 377,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "businessCategory": "Private Organization",
+      "serialNumber": "2158113",
+      "C": "US",
+      "postalCode": "94043",
+      "ST": "California",
+      "L": "Mountain View",
+      "street": "350 Ellis Street",
+      "O": "Symantec Corporation",
+      "OU": "Corp Mktg & Comms - Online Exp",
+      "CN": "www.symantec.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Oracle Corporation",
+    "site": "www.oracle.com",
+    "position": 81,
+    "isSSL": false
+  },
+  {
+    "name": "Pfizer",
+    "site": "www.pfizer.com",
+    "position": 50,
+    "isSSL": false
+  },
+  {
+    "name": "UnitedHealth Group",
+    "site": "www.unitedhealthgroup.com",
+    "position": 13,
+    "isSSL": false
+  },
+  {
+    "name": "The Goldman Sachs Group, Inc.",
+    "site": "www.gs.com",
+    "position": 73,
+    "isSSL": false
+  },
+  {
+    "name": "Amgen Inc.",
+    "site": "www.amgen.com",
+    "position": 153,
+    "isSSL": false
+  },
+  {
+    "name": "Marriott International, Inc.",
+    "site": "www.marriott.com",
+    "position": 218,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Maryland",
+      "L": "Frederick",
+      "O": "Marriott International Inc.",
+      "OU": "HQ",
+      "CN": "www.marriott.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Dillard's, Inc.",
+    "site": "www.dillards.com",
+    "position": 385,
+    "isSSL": false
+  },
+  {
+    "name": "Facebook, Inc.",
+    "site": "www.facebook.com",
+    "position": 340,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "CA",
+      "L": "Menlo Park",
+      "O": "Facebook, Inc.",
+      "CN": "*.facebook.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "NetApp, Inc.",
+    "site": "www.netapp.com",
+    "position": 410,
+    "isSSL": false
+  },
+  {
+    "name": "Live Nation Entertainment, Inc.",
+    "site": "www.livenation.com",
+    "position": 403,
+    "isSSL": false
+  },
+  {
+    "name": "U.S. Bancorp",
+    "site": "www.usbank.com",
+    "position": 139,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Minnesota",
+      "L": "Minneapolis",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "O": "U.S. Bank National Association",
+      "businessCategory": "Private Organization",
+      "OU": "ISS",
+      "serialNumber": "6548",
+      "CN": "www.usbank.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Avery Dennison Corporation",
+    "site": "www.averydennison.com",
+    "position": 397,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "CA",
+      "L": "Pasadena",
+      "O": "Avery Dennison Corporation",
+      "OU": "Corporate",
+      "CN": "*.averydennison.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Hewlett-Packard",
+    "site": "www.hp.com",
+    "position": 16,
+    "isSSL": false
+  },
+  {
+    "name": "MetLife",
+    "site": "www.metlife.com",
+    "position": 41,
+    "isSSL": false
+  },
+  {
+    "name": "Merck & Co., Inc.",
+    "site": "www.merck.com",
+    "position": 64,
+    "isSSL": false
+  },
+  {
+    "name": "Big Lots, Inc.",
+    "site": "www.biglots.com",
+    "position": 472,
+    "isSSL": false
+  },
+  {
+    "name": "MasterCard Incorporated",
+    "site": "www.mastercard.com",
+    "position": 325,
+    "isSSL": false
+  },
+  {
+    "name": "Medtronic, Inc.",
+    "site": "www.medtronic.com",
+    "position": 172,
+    "isSSL": false
+  },
+  {
+    "name": "First Data Corporation",
+    "site": "www.firstdata.com",
+    "position": 260,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Georgia",
+      "L": "Atlanta",
+      "O": "First Data Corporation",
+      "OU": "Domain Admin",
+      "CN": "www.pogopayment.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "ONEOK, Inc.",
+    "site": "www.oneok.com",
+    "position": 199,
+    "isSSL": false
+  },
+  {
+    "name": "Dick's Sporting Goods, Inc.",
+    "site": "www.dickssportinggoods.com",
+    "position": 420,
+    "isSSL": false
+  },
+  {
+    "name": "Marathon Oil Corporation",
+    "site": "www.marathonoil.com",
+    "position": 187,
+    "isSSL": false
+  },
+  {
+    "name": "Harley-Davidson, Inc.",
+    "site": "www.harley-davidson.com",
+    "position": 432,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Wisconsin",
+      "L": "Milwaukee",
+      "O": "Harley-Davidson Motor Company",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.harley-davidson.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "American Electric Power Company, Inc.",
+    "site": "www.aep.com",
+    "position": 185,
+    "isSSL": true,
+    "certificateSubject": {
+      "O": "www.aep.com",
+      "OU": "Domain Control Validated",
+      "CN": "www.aep.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Visa Inc.",
+    "site": "www.corporate.visa.com",
+    "position": 237,
+    "isSSL": false
+  },
+  {
+    "name": "Dollar Tree, Inc.",
+    "site": "www.dollartree.com",
+    "position": 341,
+    "isSSL": false
+  },
+  {
+    "name": "Caesars Entertainment Corporation",
+    "site": "www.caesars.com",
+    "position": 317,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Nevada",
+      "L": "Las Vegas",
+      "O": "CAESARS LICENSE COMPANY",
+      "OU": "Akamai SAN SSL OV",
+      "CN": "www.totalrewards.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Nationwide Mutual Insurance Co.",
+    "site": "www.nationwide.com",
+    "position": 90,
+    "isSSL": false
+  },
+  {
+    "name": "Tech Data Corporation",
+    "site": "www.techdata.com",
+    "position": 110,
+    "isSSL": true,
+    "certificateSubject": {
+      "businessCategory": "Private Organization",
+      "serialNumber": "591578329",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Florida",
+      "C": "US",
+      "ST": "Florida",
+      "L": "Clearwater",
+      "street": "5350 Tech Data Drive",
+      "O": "Tech Data Corporation",
+      "CN": "www.techdata.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Lincoln National Corporation",
+    "site": "www.lfg.com",
+    "position": 231,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Indiana",
+      "L": "Fort Wayne",
+      "O": "Lincoln National Life",
+      "OU": "Lincoln National Life",
+      "CN": "www.lfg.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Verizon Communications",
+    "site": "www.verizon.com",
+    "position": 15,
+    "isSSL": false
+  },
+  {
+    "name": "Agilent Technologies, Inc.",
+    "site": "www.agilent.com",
+    "position": 383,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Santa Clara",
+      "O": "Agilent Technologies",
+      "OU": "GIO",
+      "CN": "agilent.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Starbucks Corporation",
+    "site": "www.starbucks.com",
+    "position": 195,
+    "isSSL": false
+  },
+  {
+    "name": "The Clorox Company",
+    "site": "www.thecloroxcompany.com",
+    "position": 450,
+    "isSSL": false
+  },
+  {
+    "name": "Quest Diagnostics Incorporated",
+    "site": "www.questdiagnostics.com",
+    "position": 363,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Teterboro",
+      "O": "Quest Diagnostics Incorporated",
+      "OU": "Corp IT-qdcls1636",
+      "CN": "www.questdiagnostics.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Reinsurance Group of America, Incorporated",
+    "site": "www.rgare.com",
+    "position": 273,
+    "isSSL": false
+  },
+  {
+    "name": "Dana Holding Corporation",
+    "site": "www.dana.com",
+    "position": 384,
+    "isSSL": false
+  },
+  {
+    "name": "The PNC Financial Services Group, Inc.",
+    "site": "www.pnc.com",
+    "position": 171,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Pennsylvania",
+      "businessCategory": "Private Organization",
+      "serialNumber": "754401",
+      "C": "US",
+      "postalCode": "15222",
+      "ST": "Pennsylvania",
+      "L": "Pittsburgh",
+      "street": "249 Fifth Ave.",
+      "O": "The PNC Financial Services Group, Inc.",
+      "OU": "Secure Edge Server",
+      "CN": "www.pnc.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "American Airlines Group Inc.",
+    "site": "www.aa.com",
+    "position": 111,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Fort Worth",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Delaware",
+      "O": "American Airlines, Inc.",
+      "businessCategory": "Private Organization",
+      "OU": "Site Ops Optimization",
+      "serialNumber": "0332421",
+      "CN": "www.aa.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "The Sherwin-Williams Company",
+    "site": "www.sherwin.com",
+    "position": 277,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "44115",
+      "ST": "Ohio",
+      "L": "Cleveland",
+      "street": "101 Prospect Ave NW",
+      "O": "Sherwin Williams",
+      "OU": [
+        "SW Internet Services",
+        "Provided by Sherwin-Williams",
+        "Enterprise SSL Wildcard"
+      ],
+      "CN": "*.sherwin-williams.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Boston Scientific Corporation",
+    "site": "www.bostonscientific.com",
+    "position": 366,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "MA",
+      "L": "Marlborough",
+      "O": "Boston Scientific Corporation",
+      "OU": "Global Digital Marketing",
+      "CN": "bostonscientific.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "FirstEnergy Corp.",
+    "site": "www.firstenergycorp.com",
+    "position": 194,
+    "isSSL": true,
+    "certificateSubject": {
+      "businessCategory": "Private Organization",
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Ohio",
+      "serialNumber": "953140",
+      "C": "US",
+      "ST": "Ohio",
+      "L": "Akron",
+      "O": "FirstEnergy Corp.",
+      "CN": "www.firstenergycorp.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Simon Property Group, Inc.",
+    "site": "www.simon.com",
+    "position": 478,
+    "isSSL": false
+  },
+  {
+    "name": "Air Products & Chemicals, Inc.",
+    "site": "www.airproducts.com",
+    "position": 275,
+    "isSSL": false
+  },
+  {
+    "name": "Becton, Dickinson and Company",
+    "site": "www.bd.com",
+    "position": 335,
+    "isSSL": false
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "site": "www.53.com",
+    "position": 360,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Ohio",
+      "businessCategory": "Private Organization",
+      "serialNumber": "877750",
+      "C": "US",
+      "postalCode": "45263-0001",
+      "ST": "Ohio",
+      "L": "Cincinnati",
+      "street": "38 Fountain Square Plz",
+      "O": "Fifth Third Bank",
+      "OU": "Information Technology",
+      "CN": "www.53.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Airgas, Inc.",
+    "site": "www.airgas.com",
+    "position": 497,
+    "isSSL": true,
+    "certificateSubject": {
+      "CN": "www.airgas.com",
+      "O": "AIRGAS, INC.",
+      "L": "Radnor",
+      "ST": "Pennsylvania",
+      "C": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Pennsylvania",
+      "serialNumber": "2142700",
+      "businessCategory": "Business Entity",
+      "jurisdictionOfIncorporationCountryName": "USA"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Mutual of Omaha Insurance Company",
+    "site": "www.mutualofomaha.com",
+    "position": 391,
+    "isSSL": false
+  },
+  {
+    "name": "DIRECTV",
+    "site": "www.directv.com",
+    "position": 97,
+    "isSSL": false
+  },
+  {
+    "name": "Dollar General Corporation",
+    "site": "www.dollargeneral.com",
+    "position": 163,
+    "isSSL": false
+  },
+  {
+    "name": "Advance Auto Parts, Inc.",
+    "site": "www.advanceautoparts.com",
+    "position": 401,
+    "isSSL": false
+  },
+  {
+    "name": "R.R. Donnelley & Sons Company",
+    "site": "www.rrdonnelley.com",
+    "position": 267,
+    "isSSL": false
+  },
+  {
+    "name": "Hess Corporation",
+    "site": "www.hess.com",
+    "position": 83,
+    "isSSL": false
+  },
+  {
+    "name": "MeadWestvaco Corporation",
+    "site": "www.mwv.com",
+    "position": 456,
+    "isSSL": false
+  },
+  {
+    "name": "United Rentals, Inc.",
+    "site": "www.ur.com",
+    "position": 499,
+    "isSSL": false
+  },
+  {
+    "name": "LKQ Corporation",
+    "site": "www.lkqcorp.com",
+    "position": 489,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Chicago",
+      "O": "LKQ Corporation, Inc.",
+      "CN": "*.lkqcorp.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Coach, Inc.",
+    "site": "www.coach.com",
+    "position": 488,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "NY",
+      "L": "New York",
+      "O": "Coach Inc.",
+      "OU": "infrastructure",
+      "CN": "*.coach.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "First American Financial Corporation",
+    "site": "www.firstam.com",
+    "position": 498,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "California",
+      "L": "Santa Ana",
+      "O": "FATCO Holdings, LLC",
+      "OU": "Title",
+      "CN": "www.firstam.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "CHS Inc.",
+    "site": "www.chsinc.com",
+    "position": 61,
+    "isSSL": false
+  },
+  {
+    "name": "Waste Management, Inc.",
+    "site": "www.wm.com",
+    "position": 206,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Texas",
+      "L": "Houston",
+      "O": "Waste Management Inc.",
+      "CN": "*.wm.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Biogen Idec Inc.",
+    "site": "www.biogenidec.com",
+    "position": 374,
+    "isSSL": true,
+    "certificateSubject": {
+      "OU": [
+        "3666830790",
+        "See www.geotrust.com/resources/cps (c)15",
+        "Domain Control Validated - QuickSSL(R) Premium"
+      ],
+      "CN": "www.biogen.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Anixter International Inc.",
+    "site": "www.anixter.com",
+    "position": 419,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Illinois",
+      "L": "Glenview",
+      "O": "Anixter Inc.",
+      "CN": "*.anixter.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Alaska Air Group, Inc.",
+    "site": "www.alaskaair.com",
+    "position": 481,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Alaska",
+      "businessCategory": "Private Organization",
+      "serialNumber": "1127D",
+      "C": "US",
+      "ST": "Washington",
+      "L": "Seattle",
+      "O": "Alaska Airlines, Inc.",
+      "OU": "ITS",
+      "CN": "www.alaskaair.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Northrop Grumman Corporation",
+    "site": "www.northropgrumman.com",
+    "position": 121,
+    "isSSL": false
+  },
+  {
+    "name": "Prudential Financial, Inc.",
+    "site": "www.prudential.com",
+    "position": 71,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New Jersey",
+      "L": "Roseland",
+      "O": "Prudential Financial Inc",
+      "OU": "CTS e-Commerce Systems",
+      "CN": "www.prudential.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "O'Reilly Automotive, Inc.",
+    "site": "www.oreillyauto.com",
+    "position": 389,
+    "isSSL": false
+  },
+  {
+    "name": "J.C. Penney Company, Inc.",
+    "site": "www.jcpenney.com",
+    "position": 234,
+    "isSSL": false
+  },
+  {
+    "name": "Charter Communications, Inc.",
+    "site": "www.charter.com",
+    "position": 330,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Missouri",
+      "L": "St. Louis",
+      "O": "Charter Communications Holding Company LLC",
+      "OU": "Charter Communications Holding Company LLC",
+      "CN": "spectrum.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Ralph Lauren Corporation",
+    "site": "www.ralphlauren.com",
+    "position": 373,
+    "isSSL": false
+  },
+  {
+    "name": "United Natural Foods, Inc.",
+    "site": "www.unfi.com",
+    "position": 426,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Rhode Island",
+      "L": "Providence",
+      "O": "United Natural Foods, Inc.",
+      "CN": "*.unfi.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "MRC Global Inc.",
+    "site": "www.mrcglobal.com",
+    "position": 477,
+    "isSSL": false
+  },
+  {
+    "name": "Monsanto Company",
+    "site": "www.monsanto.com",
+    "position": 196,
+    "isSSL": false
+  },
+  {
+    "name": "Mylan Inc.",
+    "site": "www.mylan.com",
+    "position": 376,
+    "isSSL": false
+  },
+  {
+    "name": "Laboratory Corporation of America Holdings",
+    "site": "www.labcorp.com",
+    "position": 439,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "North Carolina",
+      "L": "Burlington",
+      "O": "Laboratory Corporation of America Holdings",
+      "OU": "Enterprise Systems Implementation",
+      "CN": "www.labcorp.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "The Western Union Company",
+    "site": "www.westernunion.com",
+    "position": 457,
+    "isSSL": false
+  },
+  {
+    "name": "Time Warner Cable Inc.",
+    "site": "www.twc.com",
+    "position": 133,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New York",
+      "L": "New York",
+      "O": "Time Warner Cable Enterprises LLC",
+      "OU": "Web Services Infrastructure",
+      "CN": "timewarnercable.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Windstream Holdings, Inc.",
+    "site": "www.windstream.com",
+    "position": 428,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Arkansas",
+      "L": "Little Rock",
+      "O": "WINDSTREAM COMMUNICATIONS INC",
+      "OU": "Windstream",
+      "CN": "www.windstream.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "DaVita HealthCare Partners Inc.",
+    "site": "www.davita.com",
+    "position": 229,
+    "isSSL": false
+  },
+  {
+    "name": "AutoNation, Inc.",
+    "site": "www.autonation.com",
+    "position": 161,
+    "isSSL": false
+  },
+  {
+    "name": "Halliburton Company",
+    "site": "www.halliburton.com",
+    "position": 102,
+    "isSSL": false
+  },
+  {
+    "name": "DTE Energy Company",
+    "site": "www.dteenergy.com",
+    "position": 289,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "postalCode": "48226",
+      "ST": "MI",
+      "L": "Detroit",
+      "street": "One Energy Plaza",
+      "O": "DTE Energy",
+      "OU": [
+        "Hosted by DTE Energy Company",
+        "PlatinumSSL SGC"
+      ],
+      "CN": "www2.dteenergy.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Commercial Metals Company",
+    "site": "www.cmc.com",
+    "position": 369,
+    "isSSL": false
+  },
+  {
+    "name": "BorgWarner Inc.",
+    "site": "www.borgwarner.com",
+    "position": 351,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "Michigan",
+      "L": "Auburn Hills",
+      "O": "BorgWarner Inc.",
+      "OU": "Enterprise",
+      "CN": "www.borgwarner.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Reliance Steel & Aluminum Co.",
+    "site": "www.rsac.com",
+    "position": 298,
+    "isSSL": false
+  },
+  {
+    "name": "Amazon.com",
+    "site": "www.amazon.com",
+    "position": 34,
+    "isSSL": false
+  },
+  {
+    "name": "United Services Automobile Association",
+    "site": "www.usaa.com",
+    "position": 140,
+    "isSSL": true,
+    "certificateSubject": {
+      "jurisdictionOfIncorporationCountryName": "US",
+      "jurisdictionOfIncorporationStateOrProvinceName": "Texas",
+      "businessCategory": "Private Organization",
+      "serialNumber": "86800",
+      "C": "US",
+      "postalCode": "78288",
+      "ST": "Texas",
+      "L": "San Antonio",
+      "street": "9800 Fredericksburg Rd",
+      "O": "United Services Automobile Association",
+      "OU": "USAA Operations Solutions WSAN1",
+      "CN": "www.usaa.com"
+    },
+    "isEV": true
+  },
+  {
+    "name": "Celanese Corporation",
+    "site": "www.celanese.com",
+    "position": 398,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "DE",
+      "ST": "Hessen",
+      "L": "Sulzbach (Taunus)",
+      "O": "Celanese GmbH",
+      "OU": "GSSIT",
+      "CN": "www.celanese.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "Advanced Micro Devices, Inc.",
+    "site": "www.amd.com",
+    "position": 473,
+    "isSSL": false
+  },
+  {
+    "name": "The Goodyear Tire & Rubber Company",
+    "site": "www.goodyear.com",
+    "position": 146,
+    "isSSL": false
+  },
+  {
+    "name": "McGraw Hill Financial, Inc.",
+    "site": "www.mhfi.com",
+    "position": 483,
+    "isSSL": true,
+    "certificateSubject": {
+      "C": "US",
+      "ST": "New York",
+      "L": "New York",
+      "O": "McGraw Hill Financial, Inc.",
+      "OU": "McGraw Hill Financial",
+      "CN": "www.mhfi.com"
+    },
+    "isEV": false
+  },
+  {
+    "name": "PACCAR Inc",
+    "site": "www.paccar.com",
+    "position": 168,
+    "isSSL": false
+  },
+  {
+    "name": "Spectrum Group International, Inc.",
+    "site": "www.spectrumgi.com",
+    "position": 352,
+    "isSSL": false
+  },
+  {
+    "name": "Avnet, Inc.",
+    "site": "www.avnet.com",
+    "position": 116,
+    "isSSL": false
+  },
+  {
+    "name": "Sysco Corporation",
+    "site": "www.sysco.com",
+    "position": 62,
+    "isSSL": false
+  },
+  {
+    "name": "Eli Lilly and Company",
+    "site": "www.lilly.com",
+    "position": 128,
+    "isSSL": false
+  },
+  {
+    "name": "Exxon Mobil",
+    "site": "www.exxonmobil.com",
+    "position": 1,
+    "isSSL": false
+  },
+  {
+    "name": "Aramark Holdings Corporation",
+    "site": "www.aramark.com",
+    "position": 208,
+    "isSSL": false
+  },
+  {
+    "name": "The Southern Company",
+    "site": "www.southerncompany.com",
+    "position": 169,
+    "isSSL": false
+  },
+  {
+    "name": "Valero Energy",
+    "site": "www.valero.com",
+    "position": 9,
+    "isSSL": false
+  },
+  {
+    "name": "Fannie Mae",
+    "site": "www.fanniemae.com",
+    "position": 12,
+    "isSSL": false
+  },
+  {
+    "name": "J.P. Morgan Chase & Co.",
+    "site": "www.jpmorganchase.com",
+    "position": 17,
+    "isSSL": false
+  },
+  {
+    "name": "Kroger",
+    "site": "www.thekrogerco.com",
+    "position": 23,
+    "isSSL": false
+  },
+  {
+    "name": "Boeing",
+    "site": "www.boeing.com",
+    "position": 29,
+    "isSSL": false
+  },
+  {
+    "name": "WellPoint",
+    "site": "www.wellpoint.com",
+    "position": 37,
+    "isSSL": false
+  },
+  {
+    "name": "Enterprise Products Partners L.P.",
+    "site": "www.enterpriseproducts.com",
+    "position": 55,
+    "isSSL": false
+  },
+  {
+    "name": "Lockheed Martin Corporation",
+    "site": "www.lockheedmartin.com",
+    "position": 58,
+    "isSSL": false
+  },
+  {
+    "name": "Twenty-First Century Fox, Inc.",
+    "site": "www.21cf.com",
+    "position": 84,
+    "isSSL": false
+  },
+  {
+    "name": "Supervalu Inc.",
+    "site": "www.supervalu.com",
+    "position": 93,
+    "isSSL": false
+  },
+  {
+    "name": "CIGNA Corporation",
+    "site": "www.cigna.com",
+    "position": 96,
+    "isSSL": false
+  },
+  {
+    "name": "General Dynamics Corporation",
+    "site": "www.generaldynamics.com",
+    "position": 98,
+    "isSSL": false
+  },
+  {
+    "name": "Time Warner Inc.",
+    "site": "www.timewarner.com",
+    "position": 101,
+    "isSSL": false
+  },
+  {
+    "name": "Publix Super Markets, Inc.",
+    "site": "www.publix.com",
+    "position": 103,
+    "isSSL": false
+  },
+  {
+    "name": "Occidental Petroleum Corporation",
+    "site": "www.oxy.com",
+    "position": 115,
+    "isSSL": false
+  },
+  {
+    "name": "Icahn Enterprises L.P.",
+    "site": "www.ielp.com",
+    "position": 142,
+    "isSSL": false
+  },
+  {
+    "name": "Danaher Corporation",
+    "site": "www.danaher.com",
+    "position": 148,
+    "isSSL": false
+  },
+  {
+    "name": "Nucor Corporation",
+    "site": "www.nucor.com",
+    "position": 149,
+    "isSSL": false
+  },
+  {
+    "name": "Kraft Foods Group, Inc.",
+    "site": "www.kraftfoodsgroup.com",
+    "position": 155,
+    "isSSL": false
+  },
+  {
+    "name": "Bristol-Myers Squibb Company",
+    "site": "www.bms.com",
+    "position": 175,
+    "isSSL": false
+  },
+  {
+    "name": "CBS Corporation",
+    "site": "www.cbscorporation.com",
+    "position": 181,
+    "isSSL": false
+  },
+  {
+    "name": "Kinder Morgan, Inc.",
+    "site": "www.kindermorgan.com",
+    "position": 205,
+    "isSSL": false
+  },
+  {
+    "name": "Ecolab Inc.",
+    "site": "www.ecolab.com",
+    "position": 212,
+    "isSSL": false
+  },
+  {
+    "name": "L-3 Communications Holdings, Inc.",
+    "site": "www.l-3com.com",
+    "position": 220,
+    "isSSL": false
+  },
+  {
+    "name": "Edison International",
+    "site": "www.edisoninvestor.com",
+    "position": 221,
+    "isSSL": false
+  },
+  {
+    "name": "Consolidated Edison, Inc.",
+    "site": "www.conedison.com",
+    "position": 224,
+    "isSSL": false
+  },
+  {
+    "name": "H.J. Heinz Company",
+    "site": "www.heinz.com",
+    "position": 238,
+    "isSSL": false
+  },
+  {
+    "name": "V.F. Corporation",
+    "site": "www.vfc.com",
+    "position": 240,
+    "isSSL": false
+  },
+  {
+    "name": "Automatic Data Processing, Inc.",
+    "site": "www.adp.com",
+    "position": 242,
+    "isSSL": false
+  },
+  {
+    "name": "L Brands, Inc.",
+    "site": "www.lb.com",
+    "position": 262,
+    "isSSL": false
+  },
+  {
+    "name": "CST Brands, Inc.",
+    "site": "www.cstbrands.com",
+    "position": 265,
+    "isSSL": false
+  },
+  {
+    "name": "State Street Corporation",
+    "site": "www.statestreet.com",
+    "position": 274,
+    "isSSL": false
+  },
+  {
+    "name": "The Est?ö£?îÉe Lauder Companies Inc.",
+    "site": "www.elcompanies.com",
+    "position": 278,
+    "isSSL": false
+  },
+  {
+    "name": "The Mosaic Company",
+    "site": "www.mosaicco.com",
+    "position": 282,
+    "isSSL": false
+  },
+  {
+    "name": "Dean Foods Company",
+    "site": "www.deanfoods.com",
+    "position": 284,
+    "isSSL": false
+  },
+  {
+    "name": "Hilton Worldwide Holdings Inc.",
+    "site": "www.hiltonworldwide.com",
+    "position": 288,
+    "isSSL": false
+  },
+  {
+    "name": "Rock-Tenn Company",
+    "site": "www.rocktenn.com",
+    "position": 292,
+    "isSSL": false
+  },
+  {
+    "name": "GameStop Corp.",
+    "site": "www.gamestopcorp.com",
+    "position": 304,
+    "isSSL": false
+  },
+  {
+    "name": "Stryker Corporation",
+    "site": "www.stryker.com",
+    "position": 305,
+    "isSSL": false
+  },
+  {
+    "name": "Fidelity National Financial, Inc.",
+    "site": "www.fnf.com",
+    "position": 315,
+    "isSSL": false
+  },
+  {
+    "name": "Masco Corporation",
+    "site": "www.masco.com",
+    "position": 322,
+    "isSSL": false
+  },
+  {
+    "name": "Universal Health Services, Inc.",
+    "site": "www.uhsinc.com",
+    "position": 323,
+    "isSSL": false
+  },
+  {
+    "name": "Republic Services, Inc.",
+    "site": "www.republicservices.com",
+    "position": 324,
+    "isSSL": false
+  },
+  {
+    "name": "Reynolds American Inc.",
+    "site": "www.reynoldsamerican.com",
+    "position": 328,
+    "isSSL": false
+  },
+  {
+    "name": "AECOM Technology Corporation",
+    "site": "www.aecom.com",
+    "position": 331,
+    "isSSL": false
+  },
+  {
+    "name": "Tenneco Inc.",
+    "site": "www.tenneco.com",
+    "position": 337,
+    "isSSL": false
+  },
+  {
+    "name": "TravelCenters of America LLC",
+    "site": "www.tatravelcenters.com",
+    "position": 338,
+    "isSSL": false
+  },
+  {
+    "name": "Avis Budget Group, Inc.",
+    "site": "www.avisbudgetgroup.com",
+    "position": 339,
+    "isSSL": false
+  },
+  {
+    "name": "Oshkosh Corporation",
+    "site": "www.oshkoshcorporation.com",
+    "position": 346,
+    "isSSL": false
+  },
+  {
+    "name": "Visteon Corporation",
+    "site": "www.visteon.com",
+    "position": 350,
+    "isSSL": false
+  },
+  {
+    "name": "Mohawk Industries, Inc.",
+    "site": "www.mohawkind.com",
+    "position": 356,
+    "isSSL": false
+  },
+  {
+    "name": "Peabody Energy Corporation",
+    "site": "www.peabodyenergy.com",
+    "position": 364,
+    "isSSL": false
+  },
+  {
+    "name": "Owens-Illinois, Inc.",
+    "site": "www.o-i.com",
+    "position": 371,
+    "isSSL": false
+  },
+  {
+    "name": "Ameren Corporation",
+    "site": "www.ameren.com",
+    "position": 378,
+    "isSSL": false
+  },
+  {
+    "name": "Barnes & Noble, Inc.",
+    "site": "www.barnesandnobleinc.com",
+    "position": 380,
+    "isSSL": false
+  },
+  {
+    "name": "Molina Healthcare, Inc.",
+    "site": "www.molinahealthcare.com",
+    "position": 392,
+    "isSSL": false
+  },
+  {
+    "name": "Level 3 Communications, Inc.",
+    "site": "www.level3.com",
+    "position": 412,
+    "isSSL": false
+  },
+  {
+    "name": "Calpine Corporation",
+    "site": "www.calpine.com",
+    "position": 413,
+    "isSSL": false
+  },
+  {
+    "name": "D.R. Horton, Inc.",
+    "site": "www.drhorton.com",
+    "position": 417,
+    "isSSL": false
+  },
+  {
+    "name": "NCR Corporation",
+    "site": "www.ncr.com",
+    "position": 422,
+    "isSSL": false
+  },
+  {
+    "name": "Expeditors International of Washington, Inc.",
+    "site": "www.expeditors.com",
+    "position": 424,
+    "isSSL": false
+  },
+  {
+    "name": "Sanmina",
+    "site": "www.sanmina.com",
+    "position": 431,
+    "isSSL": false
+  },
+  {
+    "name": "CONSOL Energy Inc.",
+    "site": "www.consolenergy.com",
+    "position": 433,
+    "isSSL": false
+  },
+  {
+    "name": "Cliffs Natural Resources Inc.",
+    "site": "www.cliffsnaturalresources.com",
+    "position": 444,
+    "isSSL": false
+  },
+  {
+    "name": "Wynn Resorts, Limited",
+    "site": "www.wynnresorts.com",
+    "position": 451,
+    "isSSL": false
+  },
+  {
+    "name": "AK Steel Holding Corporation",
+    "site": "www.aksteel.com",
+    "position": 454,
+    "isSSL": false
+  },
+  {
+    "name": "Spectra Energy Corp",
+    "site": "www.spectraenergy.com",
+    "position": 460,
+    "isSSL": false
+  },
+  {
+    "name": "Old Republic International Corporation",
+    "site": "www.oldrepublic.com",
+    "position": 464,
+    "isSSL": false
+  }
+]
